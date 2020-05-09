@@ -26,6 +26,7 @@ Je laisse la possibilité à quiconque le souhaite d'apporter des modifications 
 [IWDEE] : Icewind Dale : Enhanced Edition
 
 [SIZE=1]Les compatibilités listées sont non-exhaustives, ces informations sont receuillies dans les Readme, les Changelog, etc... Ce n'est pas parcequ'un mod n'est pas listé comme compatible BGT, par exemple, qu'il ne l'est pas. Nombres de Readme ne sont plus à jours ou n'existe tout simplement pas...[/SIZE]
+[SIZE=1]Les liens listés ne pointent pas toujours vers les versions les plus récentes des mods, mais aux versions les plus récentes [U]comportant une traduction française[/U] du mod.[/SIZE]
 
 
 
