@@ -153,7 +153,7 @@ Drizzt Is Not Stupid [Tutu]
 Emily, a Half-Elf* Archer for BG:EE + SoD
 Garrick's Infatuation [BGT, Tutu, BGEE]
 Grey the Dog
-Ishlilka the Wizard Slayer for BG1 + SOD [Alpha Release]
+Ishlilka the Wizard Slayer for BG1 + SOD
 Isra NPC [BGT, Tutu, BGEE]
 Kale, a Halfling Barbarian for BG:EE + SoD
 Mulgore and Xavia NPCs [BGT, Tutu]
@@ -172,7 +172,7 @@ White NPC [BGT, Tutu, BGEE]
 
 [SPOILER]
 Ascalons Breagar NPC [BGT] (allemand)
-Casanova (un vendeur ambulant) (espagnol)
+Casanova (espagnol)
 BG1 Regelmod (allemand)
 Knights (allemand)
 TWM (beta - polonais)
@@ -299,7 +299,7 @@ TWM (beta - polonais)
 [COLOR=MediumTurquoise][B]Lysre, la dragonne de poche [/B][BG2, BGT, BG2EE] (français)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/idees/25036-npc-Klare.html]Lien[/url]
 [COLOR=MediumTurquoise][B]Korgan's Redemption [/B][BG2, BGT, BG2EE, EET] (par Le Marquis)[/COLOR] [url=http://www.shsforums.net/files/file/933-korgans-redemption/]Lien[/url]
 [COLOR=MediumTurquoise][B]Lucy the Wyvern [/B][BG2, BGT, BG2EE, EET] (par Le Marquis)[/COLOR] [url=https://github.com/SpellholdStudios/Lucy_the_Wyvern/releases]Lien[/url]
-[COLOR=MediumTurquoise][B]Malthis NPC[/B] (par Garfield)[/COLOR] [COLOR="#FF0000"]Lien introuvable[/COLOR]
+[COLOR=MediumTurquoise][B]Malthis NPC [/B][BG2] (par Garfield)[/COLOR] [url=https://github.com/Jazira33/Malthis-NPC/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Mazzy Friendship [/B][BG2, BGT, BG2EE, EET] (par Ixion)[/COLOR] [url=https://github.com/SpellholdStudios/MazzyFriendship/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Mhoram NPC [/B][BG2, BGT] (par Althéa)[/COLOR] [url=http://www.shsforums.net/files/file/769-mhoram-npc-v23/]Lien[/url]
 [COLOR=MediumTurquoise][B]NPC Flirt Packs [/B][BG2, BGT, BG2EE, EET] (par Thot, Garfield, Lothringen et Egrevyn)[/COLOR] [url=http://www.pocketplane.net/mambo/index.php?option=content&task=blogcategory&id=104&Itemid=81]Lien[/url]
@@ -403,7 +403,7 @@ TWM (beta - polonais)
 
 [U][B]Nouveaux kits :[/B][/U]
 
-[COLOR=MediumTurquoise][B]Auror kit for the Ranger Class[/B] (par deratiseur)[/COLOR] [COLOR="#FF0000"]Lien avec traduction française introuvable[/COLOR]
+[COLOR=MediumTurquoise][B]Auror kit for the Ranger Class [/B][BG2] (par deratiseur)[/COLOR] [COLOR="#FF0000"](Nécessite une mise à jour de la traduction, v4+)[/COLOR] [url=https://github.com/Jazira33/Auror-Kit/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Chantelame Kit [/B][BG2, BGT, Tutu, BGEE, BG2EE, IWDEE][/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/la-zone-de-telechargement/24080-mods-crees-kit-Chantelame-v6.html]Lien[/url]
 [COLOR=MediumTurquoise][B]Chanter Kit [/B][BG2, BGEE, BG2EE, IWDEE] (par deratiseur)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html]Lien[/url]
 [COLOR=MediumTurquoise][B]Chaos Sorcerer Kit [/B][BGEE, BG2EE, IWDEE, EET] (par deratiseur)[/COLOR] [url=https://github.com/Argent77/A7-ChaosSorcerer/releases]Lien[/url]
@@ -468,7 +468,7 @@ Damian Soundset
 Darkest Dungeon Soundset
 Diablo characters Skin mod
 Druid Grove makeover
-Elven Ranger Avatar (male / female)
+Elven Ranger Avatar
 Isandir's Portrait Pack
 IWD GUI
 IWD2 GUI
@@ -513,7 +513,7 @@ Region of Terror
 Shadow of the Hierophant - Arena Project
 Shadows over Soubar [BGT]
 Sylmar Battlefield
-Tales of Anegh (allemand / adapté en anglais)
+Tales of Anegh (allemand adapté en anglais)
 The Cowled Menace
 The Sellswords
 Tortured Souls (version stand-alone)
@@ -629,7 +629,7 @@ Solaufein Flirt Pack
 Stivan the Hunter
 Summon Bhaalspawn Sandra
 Swylif Thicc NPC
-Taim NPC (espagnol / adapté en anglais)
+Taim NPC (espagnol adapté en anglais)
 The beaurin legacy NPC
 The Luxley Family SoA
 The Undying
@@ -829,7 +829,7 @@ FG Clerics Kits
 FG kits
 Fire Elemental
 Flamewing's Multikit mod
-Grey Acumen’s Kit Improvements (beta)
+Grey Acumen’s Kit Improvements
 Harper Scout kit [Tutu]
 Heartwarder of Sune
 Hidden kits
@@ -929,7 +929,7 @@ Raziel NPC (polonais)
 Runic Bladesinger (polonais)
 Shar-Teel NPC (allemand)
 Skie NPC (polonais)
-TDDsinTDD (espagnol / adapté en anglais)
+TDDsinTDD (espagnol adapté en anglais)
 Trovador Reo (espagnol)
 Uldar NPC (espagnol)
 Vampirmod für Magier (allemand)
@@ -974,7 +974,7 @@ Icewind Gate II - beta
 Cleric domains
 Ease-of-Use
 IceWind Dale Improvements
-Subraces pack - beta
+Subraces pack
 Tactics4IWD2
 
 [U][B]NPCs et Romances :[/B][/U]
