@@ -26,7 +26,7 @@ Je laisse la possibilité à quiconque le souhaite d'apporter des modifications 
 [IWDEE] : Icewind Dale : Enhanced Edition
 
 [SIZE=1]Les compatibilités listées sont non-exhaustives, ces informations sont receuillies dans les Readme, les Changelog, etc... Ce n'est pas parcequ'un mod n'est pas listé comme compatible BGT, par exemple, qu'il ne l'est pas. Nombres de Readme ne sont plus à jours ou n'existe tout simplement pas...[/SIZE]
-[SIZE=1]Les liens listés ne pointent pas toujours vers les versions les plus récentes des mods, mais aux versions les plus récentes [U]comportant une traduction française[/U] du mod.[/SIZE]
+[SIZE=1]Les liens listés ne pointent pas toujours vers les versions les plus récentes des mods, mais aux versions les plus récentes [U]comportant une traduction française[/U] des mods.[/SIZE]
 
 
 
@@ -75,7 +75,7 @@ Je laisse la possibilité à quiconque le souhaite d'apporter des modifications 
 [COLOR=MediumTurquoise][B]Ajantis Expansion [/B][BG1, BGT, Tutu, BGEE, EET] (par Galathée)[/COLOR] [url=https://github.com/Gibberlings3/Ajantis_BG1_Expansion/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]BG1 NPC Project [/B][BGT, Tutu, BGEE, EET] (par Galathée, La Voix 2 la Sagesse, Lothringen, Le Marquis, Eleima, Isaya et Garfield)[/COLOR] [url=https://github.com/Gibberlings3/BG1NPC/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]BG1 NPC Project Music Pack [/B][BGT, Tutu, BGEE, EET][/COLOR] [url=https://www.gibberlings3.net/files/file/692-bg1-npc-project-music-pack/]Lien[/url]
-[COLOR=Lime][B]BG1 Romantic Encounters [/B][BG1, BGT, Tutu, BGEE, EET] (par Le Marquis, Zooloo, Shaywen, Lothringen, Galathée et jazira)[/COLOR] [url=https://www.gibberlings3.net/files/file/956-romantic-encounters-bg/]Lien[/url]
+[COLOR=Lime][B]BG1 Romantic Encounters [/B][BG1, BGT, Tutu, BGEE, EET] (par Le Marquis, Zooloo, Shaywen, Lothringen, Galathée et jazira)[/COLOR] [COLOR="#FF0000"](Partiellement traduit, voir la liste [url=https://www.baldursgateworld.fr/lacouronne/la-chambre-des-scribes/32584-sortie-du-mod-Romantic-encounters-force-baldur-s-gate-1-traduction-partielle.html#post480931]ici[/url] )[/COLOR] [url=https://www.gibberlings3.net/files/file/956-romantic-encounters-bg/]Lien[/url]
 [COLOR=MediumTurquoise][B]Chatty Imoen [/B][BG1, BGT, Tutu, BGEE, EET] (par mirandir)[/COLOR] [url=https://github.com/AstroBryGuy/ChattyImoen/releases/]Lien[/url]
 [COLOR=MediumTurquoise][B]Finch NPC [/B][BGT, Tutu, BGEE, EET] (par Thot, Elgaern, Egrevyn et Chalindra Pharn)[/COLOR] [url=https://forums.beamdog.com/discussion/33019/finch-v4-0-beta-7-for-tutu-bg-ee-and-bgt]Lien[/url]
 [COLOR=MediumTurquoise][B]Garrick : les contes d'un troubadour [/B][BGT/BGEE/EET + BG1 NPC Project] (français)[/COLOR] [url=http://mirandir.baldursgateworld.fr/garrick-tt/]Lien[/url]
@@ -194,7 +194,7 @@ TWM (beta - polonais)
 [COLOR=MediumTurquoise][B]Baldur's Gate Trilogy [/B][BGT] (par Anomaly)[/COLOR] [url=http://www.shsforums.net/files/file/54-baldurs-gate-trilogy-weidu/]Lien[/url]
 [COLOR=MediumTurquoise][B]BG1 Tutu [/B][Tutu][/COLOR] [url=http://www.pocketplane.net/mambo/index.php?option=com_content&task=blogcategory&id=143&Itemid=98]Lien[/url]
 [COLOR=MediumTurquoise][B]BG1 Tutufixpack [/B][Tutu] (par Graoumf et Sanctifer)[/COLOR] [url=http://www.pocketplane.net/mambo/index.php?option=com_content&task=blogcategory&id=143&Itemid=98]Lien[/url]
-[COLOR=MediumTurquoise][B]Enhanced Edition Trilogy [/B][EET] (par Isaya)[/COLOR] [url=https://github.com/K4thos/EET/releases]Lien[/url]
+[COLOR=MediumTurquoise][B]Enhanced Edition Trilogy [/B][EET] (par Isaya et Chevalier Noir)[/COLOR] [COLOR="#FF0000"](Partiellement traduit, SoD en anglais)[/COLOR] [url=https://github.com/K4thos/EET/releases]Lien[/url]
 
 [U][B]Conversions totales ou partielles :[/B][/U]
 
