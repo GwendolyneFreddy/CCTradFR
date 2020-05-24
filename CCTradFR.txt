@@ -45,7 +45,7 @@ Je laisse la possibilité à quiconque le souhaite d'apporter des modifications 
 [COLOR=MediumTurquoise][B]The Drizzt Saga [/B][BG1, BGT, Tutu, BGEE, EET] (par Lostbrain et phoeunix)[/COLOR] [url=http://www.blackwyrmlair.net/Mods/drizztsaga.php]Lien[/url] / [url=https://github.com/MattyGroove/DrizztSaga/releases]Lien EET (Version non-officielle)[/url]
 [COLOR=MediumTurquoise][B]The Grey Clan Episode 1 - In Candlelight [/B][BG1, BGT, Tutu, BGEE, EET] (par JaNcEn47 et Galathée)[/COLOR] [url=http://greyclan.blackwyrmlair.net/ep1/]Lien[/url] / [url=https://github.com/K4thos/TGC1e/]Lien BGEE-EET[/url]
 [COLOR=MediumTurquoise][B]The Lure of Sirine's Call [/B][BG1, BGT, Tutu, BGEE, EET] (par Egrevyn)[/COLOR] [url=https://github.com/Pocket-Plane-Group/Lure_Of_Sirines_Call/releases]Lien[/url]
-[COLOR=MediumTurquoise][B]The Secret of Bonehill [/B][BG1, BGT, Tutu, EET] (par Lothringen)[/COLOR] [url=http://www.shsforums.net/files/file/1076-the-secret-of-bonehill/]Lien[/url] / [url=https://github.com/RoxanneSHS/BoneHill/releases]Lien EET (Versione non-officielle)[/url]
+[COLOR=MediumTurquoise][B]The Secret of Bonehill [/B][BG1, BGT, Tutu, EET] (par Lothringen)[/COLOR] [url=http://www.shsforums.net/files/file/1076-the-secret-of-bonehill/]Lien[/url] / [url=https://github.com/RoxanneSHS/BoneHill/releases]Lien EET (Version non-officielle)[/url]
 [COLOR=MediumTurquoise][B]The Stone of Askavar [/B][BG1, BGT, Tutu, BGEE, EET] (par Lothringen)[/COLOR] [url=http://www.baldursgatemods.com/forums/index.php?topic=2865.0]Lien[/url]
 [COLOR=MediumTurquoise][B]The Vault [/B][BG1, BGT, Tutu, EET] (par Galathée et La Voix 2 la Sagesse)[/COLOR] [url=http://www.angelfire.com/rpg2/azenmod/index.html#Downloads]Lien BG1-Tutu[/url] / [url=http://www.shsforums.net/topic/55129-the-vault-for-bgt-v72-released/]Lien BGT[/url] / [url=https://github.com/RoxanneSHS/VaultEE/releases]Lien EET (Version non-officielle)[/url]
 
@@ -194,7 +194,7 @@ TWM (beta - polonais)
 
 [U][B]Conversions du moteur :[/B][/U]
 
-[COLOR=MediumTurquoise][B]Baldur's Gate Trilogy [/B][BGT] (par Anomaly)[/COLOR] [url=http://www.shsforums.net/files/file/54-baldurs-gate-trilogy-weidu/]Lien[/url]
+[COLOR=MediumTurquoise][B]Baldur's Gate Trilogy [/B][BGT] (par Anomaly)[/COLOR] [url=https://github.com/SpellholdStudios/BGT-WeiDU/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]BG1 Tutu [/B][Tutu][/COLOR] [url=http://www.pocketplane.net/mambo/index.php?option=com_content&task=blogcategory&id=143&Itemid=98]Lien[/url]
 [COLOR=MediumTurquoise][B]BG1 Tutufixpack [/B][Tutu] (par Graoumf et Sanctifer)[/COLOR] [url=http://www.pocketplane.net/mambo/index.php?option=com_content&task=blogcategory&id=143&Itemid=98]Lien[/url]
 [COLOR=MediumTurquoise][B]Enhanced Edition Trilogy [/B][EET] (par Isaya et Chevalier Noir)[/COLOR] [COLOR="#FF0000"](Partiellement traduit, SoD en anglais)[/COLOR] [url=https://github.com/K4thos/EET/releases]Lien[/url]
@@ -205,7 +205,7 @@ TWM (beta - polonais)
 
 [U][B]Modifications graphiques ou sonores :[/B][/U]
 
-[COLOR=MediumTurquoise][B]Alternate Goo Portrait! [/B][BG2, BGT, Tutu, BG2EE, EET][/COLOR] [url=http://america.iegmc.net/moongaze/altgooportrait.rar]Lien[/url]
+[COLOR=MediumTurquoise][B]Alternate Goo Portrait! [/B][BG2, BGT, Tutu, BG2EE, EET][/COLOR] [url=http://america.iegmc.net/moongaze/]Lien[/url]
 [COLOR=MediumTurquoise][B]Baldur's Goth [/B][BG2, BGT, Tutu] (par Le Marquis)[/COLOR] [url=http://america.iegmc.net/moongaze/altgooportrait.rar]Lien[/url]
 [COLOR=MediumTurquoise][B]Bestial Animations [/B][BG2][/COLOR] [url=http://america.iegmc.net/galactygon/]Lien[/url]
 [COLOR=MediumTurquoise][B]BG2 Character Portrait Mod[/B][/COLOR] [COLOR="#FF0000"]Lien introuvable[/COLOR]
@@ -277,6 +277,7 @@ TWM (beta - polonais)
 [COLOR=MediumTurquoise][B]Afaaq, the Djinni Companion [/B][BG2, BGT, BG2EE, EET, IWDEE] (par deratiseur)[/COLOR] [url=https://github.com/Argent77/DjinniCompanion/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Alassa (One-Day NPC) [/B][BG2, BGT] (par Shaywen et Zooloo)[/COLOR] [url=http://www.pocketplane.net/mambo/index.php?option=content&task=blogcategory&id=113&Itemid=84]Lien[/url]
 [COLOR=MediumTurquoise][B]Allison (One-Day NPC) [/B][BG2, BGT] (par Streen)[/COLOR] [url=http://www.shsforums.net/files/file/1260-allison-one-day-npc/]Lien[/url]
+[COLOR=Lime][B]Alora NPC [/B][BG2, BGT, BG2EE] (par tonton-thon)[/COLOR] [url=http://www.baldursgatemods.com/forums/index.php?topic=359.0]Lien[/url]
 [COLOR=MediumTurquoise][B]Anishai (One-Day-NPC) [/B][BG2, BGT, BG2EE, EET] (par Galathée)[/COLOR] [url=https://www.gibberlings3.net/files/file/687-anishai-one-day-npc/]Lien[/url]
 [COLOR=MediumTurquoise][B]Auren Aseph [/B][BG2, BGT, BG2EE, EET] (par Ixion)[/COLOR] [url=https://www.gibberlings3.net/files/file/688-auren-aseph/]Lien[/url]
 [COLOR=MediumTurquoise][B]Aurora's Shoes and Boots [/B][BG2, BGT] (par Aldiemus)[/COLOR] [url=https://github.com/Sampsca/Auroras-Shoes-and-Boots/releases]Lien[/url]
@@ -547,7 +548,6 @@ Worship the Unseeing Eye
 Aeon NPC
 Aerie Cleric-Sorcerer ([COLOR=MediumTurquoise]Semi-multi Mod[/COLOR] requis, non-WeiDU)
 Ajantis Portrait Pack for BG(II):EE
-Alora NPC
 Amber
 Angelo NPC
 Aran Whitehand
@@ -1056,5 +1056,6 @@ Thieving Mod for IWDEE
 [COLOR=Lime]01/04/20 : traduction de [B]Quest Pack[/B] débutée (par deratiseur)[/COLOR]
 [COLOR=Lime]12/04/20 : traduction de [B]Tome & Blood[/B] débutée (par deratiseur)[/COLOR]
 [COLOR=Lime]25/04/20 : traduction de [B]Kelsey[/B] débutée (par Galathée)[/COLOR]
+[COLOR=Lime]24/05/20 : traduction de [B]Alora NPC[/B] débutée (par tonton-thon)[/COLOR]
 
 Cela vous dérange que votre nom soit cité lors d'une traduction ? N'hésitez pas à me le faire savoir par MP, votre droit à l'anonymat sera respecté.
