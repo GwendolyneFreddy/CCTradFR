@@ -290,6 +290,7 @@ TWM (beta - polonais)
 [COLOR=MediumTurquoise][B]de'Arnise Romance [/B][BG2, BGT, BG2EE, EET] (par Mornagest)[/COLOR] [url=http://www.pocketplane.net/mambo/index.php?option=com_content&task=blogcategory&id=119&Itemid=118]Lien[/url]
 [COLOR=MediumTurquoise][B]Edwin Romance [/B][BG2, BGT, BG2EE, EET] (par Erszebeth et Le Marquis)[/COLOR] [url=https://github.com/SpellholdStudios/Edwin_Romance/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Fade NPC [/B][BG2, BG2EE, EET] (par Stargazer)[/COLOR] [COLOR="#FF0000"](Nécessite une mise à jour de la traduction, v5+)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html]Lien[/url]
+[COLOR=MediumTurquoise][B]Gemma (One-Day-NPC) [/B][BG2] (français)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/modules-crees-ou-en-cours-de-developpement/24917-personnage-non-joueur-one-day-npc-Gemma.html]Lien[/url]
 [COLOR=MediumTurquoise][B]Goo NPC [/B][BG2, BGT] (par Galathée)[/COLOR] [url=http://www.pocketplane.net/mambo/index.php?option=content&task=blogcategory&id=131&Itemid=91]Lien[/url]
 [COLOR=MediumTurquoise][B]Haiass el Lobo [/B][BG2, BGT, Tutu, BGEE, BG2EE, EET] (par Xicloing)[/COLOR] [url=http://www.shsforums.net/files/file/777-haiass-el-lobo/]Lien[/url]
 [COLOR=MediumTurquoise][B]Hanna PNJ [/B][BG2, BGT] (par Althéa)[/COLOR] [url=http://www.shsforums.net/files/file/821-hanna-pnj-v24/]Lien[/url]
@@ -390,6 +391,7 @@ TWM (beta - polonais)
 [COLOR=MediumTurquoise][B]Jan's Alchemy [/B][BG2, BG2EE] (par SkipCool)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html]Lien[/url]
 [COLOR=MediumTurquoise][B]Kaya, marchande de sorts [/B][BG2, BG2EE] (français)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/modules-crees-ou-en-cours-de-developpement/32088-personnage-non-joueur-Kaya-marchande-de-sorts-voici-mon-premier-mod.html]Lien[/url]
 [COLOR=MediumTurquoise][B]L'interplan [/B][BG2, BGT, BG2EE] (français)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31563-magasin-l-Interplan-un-magasin-dedie-la-magie.html]Lien[/url]
+[COLOR=MediumTurquoise][B]Mersetek le joaillier [/B][BG2, BG2EE] (français)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/la-zone-de-telechargement/23998-mods-crees-mag-Mersetek-le-joaillier-v1-3-1-a.html]Lien[/url]
 [COLOR=MediumTurquoise][B]Mortis Mini Mod [/B][BG2, BG2EE] (par Althéa)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html]Lien[/url]
 [COLOR=MediumTurquoise][B]Mystigan [/B][BG2, BG2EE] (français)[/COLOR] [url=http://akadis.baldursgateworld.fr/Mystigan/MystiganFr.html]Lien[/url]
 [COLOR=MediumTurquoise][B]Nanstein [/B][BG2, BG2EE] (par Althéa)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html]Lien[/url]
@@ -431,6 +433,7 @@ TWM (beta - polonais)
 [COLOR=MediumTurquoise][B]Prêtre de Mystra [/B][BG2] (français)[/COLOR] [url=http://akadis.baldursgateworld.fr/Mystra/Mystra.html]Lien[/url]
 [COLOR=MediumTurquoise][B]Rôdeur de l'ombre [/B][BG2, BGT, BGEE, BG2EE, EET, IWDEE] (français)[/COLOR] [url=https://github.com/GwendolyneFreddy/Rodeur_Ombre/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]RTT Kit Pack [/B][BG2, Tutu] (par SkipCool)[/COLOR] [url=http://www.shsforums.net/files/file/51-return-to-trademeet-kit-pack/]Lien[/url]
+[COLOR=MediumTurquoise][B]Shuri-Ninja kit [/B][BG2, BGT, BGEE, BG2EE, EET] (par Aalkaor et Freddy_Gwendo)[/COLOR] [url=https://github.com/GwendolyneFreddy/Shuri-Ninja]Lien[/url]
 [COLOR=MediumTurquoise][B]Song and Silence [/B][BG2, BGT, Tutu, BGEE, BG2EE, EET, IWDEE] (par Zayn et Lothringen)[/COLOR] [url=https://github.com/Gibberlings3/SongAndSilence/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Sorcerer's Place Collection [/B][BG2, Tutu, BGEE, BG2EE, IWDEE] (par Saiko)[/COLOR] [url=https://github.com/Gibberlings3/SP_Collection/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Spiritwalker - A Shaman Shapeshifter Kit [/B][BGEE, BG2EE, EET] (par Freddy_Gwendo)[/COLOR] [url=https://github.com/thisisulb/SpiritwalkerKit/releases]Lien[/url]
@@ -783,7 +786,6 @@ Kenan's First Blade
 Legacy shields for BG2EE
 Long bow of Stealth +5
 Lord of the Rings Item Pack
-Mersetek
 More Style for Mages
 Munch Mod
 Ninja-To Violet universel
