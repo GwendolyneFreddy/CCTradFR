@@ -38,7 +38,7 @@ Je laisse la possibilité à quiconque le souhaite d'apporter des modifications 
 
 [U][B]Modules de quêtes - aventures nouvelles et modifications des quêtes existantes :[/B][/U]
 
-[COLOR="#FF0000"][B]BG Mini Quests and Encounters [/B][BG1, BGT, Tutu, BGEE, EET] (par Le Marquis) (Nécessite une mise à jour de la traduction[/COLOR] / [COLOR=Lime]en cours par jazira)[/COLOR] [url=https://github.com/Gibberlings3/BG_Quests_And_Encounters/releases]Lien[/url]
+[COLOR=MediumTurquoise][B]BG Mini Quests and Encounters [/B][BG1, BGT, Tutu, BGEE, EET] (par Le Marquis et jazira)[/COLOR] [url=https://github.com/Gibberlings3/BG_Quests_And_Encounters/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]BG1 Unfinished Business [/B][BG1, BGT, Tutu, BGEE, EET] (par IronFistedGiant, ForeverDream et Isaya)[/COLOR] [url=https://github.com/AstroBryGuy/bg1ub/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Dark Horizons [/B][BG1, BGT, Tutu, BGEE, EET] (par Sanctifer)[/COLOR] [url=http://www.baldursgatemods.com/forums/index.php?PHPSESSID=c081241853941e2f9b832282a3994726&topic=4828.0]Lien[/url]
 [COLOR=MediumTurquoise][B]Dark Side of the Sword Coast[/B] [BG1, BGT, Tutu, BGEE, EET] (par Isaya et Mornagest)[/COLOR] [url=http://www.baldursgatemods.com/forums/index.php?topic=449.0]Lien BG1[/url] / [url=http://www.baldursgatemods.com/forums/index.php?topic=8255.0]Lien Tutu-BGEE[/url] / [url=https://github.com/SpellholdStudios/DSotSC/releases]Lien BGT-EET[/url]
@@ -52,20 +52,20 @@ Je laisse la possibilité à quiconque le souhaite d'apporter des modifications 
 [U][B]Kits, magasins et modification graphiques, des règles et du gameplay :[/B][/U]
 
 [COLOR=MediumTurquoise][B]BG1 NPC Portrait Pack [/B][BG1, BGT, Tutu, BGEE, EET] (par Anomaly)[/COLOR] [url=https://www.gibberlings3.net/files/file/691-bg1-npc-portrait-pack/]Lien[/url]
-[COLOR=MediumTurquoise][B]BG1 NPCs at Beginning [/B][BG1, BGT, BGEE] (français)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/baldur-s-gate-reloaded-les-mods-tutu-et-baldur-s-gate-trilogy/25115-baldur-s-gate-trilogy-baldur-s-gate-1-npcs-begInning-v3-0-compatible-baldur-s-gate-1-baldur-s-gate-trilogy-et-baldur-s-gate-ee.html]Lien[/url]
+[COLOR=MediumTurquoise][B]BG1 NPCs at Beginning [/B][BG1, BGT, BGEE] (français, par Anomaly)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/baldur-s-gate-reloaded-les-mods-tutu-et-baldur-s-gate-trilogy/25115-baldur-s-gate-trilogy-baldur-s-gate-1-npcs-begInning-v3-0-compatible-baldur-s-gate-1-baldur-s-gate-trilogy-et-baldur-s-gate-ee.html]Lien[/url]
 [COLOR=MediumTurquoise][B]BGSpawn [/B][BGT] (par Isaya)[/COLOR] [url=http://www.shsforums.net/files/file/740-bgspawn/]Lien[/url]
 [COLOR=MediumTurquoise][B]BGT Tweak Pack [/B][BGT] (par Anomaly)[/COLOR] [url=http://www.shsforums.net/files/file/67-baldurs-gate-trilogy-tweak-pack-11/]Lien[/url]
 [COLOR=MediumTurquoise][B]Beregost Crash Fixer [/B][BG1, BGT, Tutu] (par Isaya)[/COLOR] [url=http://www.shsforums.net/files/file/508-utility-beregost-crash-fixer-19/]Lien[/url]
 [COLOR=MediumTurquoise][B]Cursed Items Revision [/B][BG1, BGT, Tutu] (par Le Marquis)[/COLOR] [url=http://forums.blackwyrmlair.net/index.php?showtopic=4321]Lien[/url]
-[COLOR=MediumTurquoise][B]Filipe_FR's All NPCs at the Beginning [/B][BG1] (français)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/le-festival-de-nashkel-les-modules-bg1/9349-mod-All-npcs-beginning.html]Lien[/url]
+[COLOR=MediumTurquoise][B]Filipe_FR's All NPCs at the Beginning [/B][BG1] (français, par Filipe_FR)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/le-festival-de-nashkel-les-modules-bg1/9349-mod-All-npcs-beginning.html]Lien[/url]
 [COLOR=MediumTurquoise][B]Hard Times [/B][BGT] (par Isaya)[/COLOR] [url=http://www.shsforums.net/files/file/841-hard-times-for-bgt-24/]Lien[/url]
 [COLOR=MediumTurquoise][B]Harder BG1 [/B][BG1][/COLOR] [url=http://swordcoastkeeper.chez-alice.fr/PageBG1ModulesEng.htm]Lien[/url]
 [COLOR=MediumTurquoise][B]Heart of Fury mod [/B][BG1][/COLOR] [url=https://sorcerers.net/Games/dl.php?s=BG&f=BG/BG1-HoF.zip]Lien[/url]
 [COLOR=MediumTurquoise][B]Herbs and Potions Add-in [/B][BG1, BGT, Tutu] (par Tannerhell)[/COLOR] [url=http://www.blackwyrmlair.net/Mods/herbaddin.php]Lien[/url]
 [COLOR=MediumTurquoise][B]Improved BAMs [/B][BG1, BG2, IWD1, IWD2][/COLOR] [url=https://www.gibberlings3.net/files/file/719-improved-bams/]Lien[/url]
-[COLOR=MediumTurquoise][B]Lefreut's enhanced UI [/B][BGEE, BG2EE, EET] (français)[/COLOR] [url=https://github.com/r-e-d/LeUI/releases]Lien[/url]
-[COLOR=MediumTurquoise][B]Lefreut's enhanced UI (SoD Skin) [/B][BGEE, BG2EE, EET] (français)[/COLOR] [url=https://github.com/r-e-d/LeUI-SoD]Lien[/url] 
-[COLOR=MediumTurquoise][B]Lefreut's enhanced UI (BG1EE Skin) [/B][BGEE, BG2EE, EET] (français)[/COLOR] [url=https://github.com/r-e-d/LeUI-BG1EE/releases]Lien[/url] 
+[COLOR=MediumTurquoise][B]Lefreut's enhanced UI [/B][BGEE, BG2EE, EET] (français, par Lefreut)[/COLOR] [url=https://github.com/r-e-d/LeUI/releases]Lien[/url]
+[COLOR=MediumTurquoise][B]Lefreut's enhanced UI (SoD Skin) [/B][BGEE, BG2EE, EET] (français, par Lefreut)[/COLOR] [url=https://github.com/r-e-d/LeUI-SoD]Lien[/url] 
+[COLOR=MediumTurquoise][B]Lefreut's enhanced UI (BG1EE Skin) [/B][BGEE, BG2EE, EET] (français, par Lefreut)[/COLOR] [url=https://github.com/r-e-d/LeUI-BG1EE/releases]Lien[/url] 
 [COLOR=MediumTurquoise][B]Lightmaps [/B][BG1, BGT, Tutu] (par Le Marquis)[/COLOR] [url=http://www.shsforums.net/files/file/805-replacement-lightmaps-for-baldurs-gate-city/]Lien[/url]
 [COLOR=MediumTurquoise][B]Plasmocat's "BG NPC Portraits in BG2 Style" [/B][BG1, BGT, Tutu, BGEE, EET] (par Anomaly)[/COLOR] [url=https://www.gibberlings3.net/files/file/872-plasmocats-bg-npc-portraits-in-bg2-style/]Lien[/url]
 [COLOR=MediumTurquoise][B]Restored Textscreen Music [/B][BGT, Tutu] (par SkipCool)[/COLOR] [url=http://www.shsforums.net/files/file/74-restored-textscreen-music-core-installation-package-9/]Lien[/url] + [url=http://www.shsforums.net/files/file/497-restored-textscreen-music-french-language-pack/]Pack FR[/url] 
@@ -80,7 +80,7 @@ Je laisse la possibilité à quiconque le souhaite d'apporter des modifications 
 [COLOR=Lime][B]BG1 Romantic Encounters [/B][BG1, BGT, Tutu, BGEE, EET] (par Le Marquis, Zooloo, Shaywen, Lothringen, Galathée et jazira)[/COLOR] [COLOR="#FF0000"](Partiellement traduit, voir la liste [url=https://www.baldursgateworld.fr/lacouronne/la-chambre-des-scribes/32584-sortie-du-mod-Romantic-encounters-force-baldur-s-gate-1-traduction-partielle.html#post480931]ici[/url] )[/COLOR] [url=https://github.com/Gibberlings3/BG1_Romantic_Encounters/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Chatty Imoen [/B][BG1, BGT, Tutu, BGEE, EET] (par mirandir)[/COLOR] [url=https://github.com/AstroBryGuy/ChattyImoen/releases/]Lien[/url]
 [COLOR=MediumTurquoise][B]Finch NPC [/B][BGT, Tutu, BGEE, EET] (par Thot, Elgaern, Egrevyn et Chalindra Pharn)[/COLOR] [url=https://forums.beamdog.com/discussion/33019/finch-v4-0-beta-7-for-tutu-bg-ee-and-bgt]Lien[/url]
-[COLOR=MediumTurquoise][B]Garrick : les contes d'un troubadour [/B][BGT/BGEE/EET + BG1 NPC Project] (français)[/COLOR] [url=http://mirandir.baldursgateworld.fr/garrick-tt/]Lien[/url]
+[COLOR=MediumTurquoise][B]Garrick : les contes d'un troubadour [/B][BGT/BGEE/EET + BG1 NPC Project] (français, par mirandir)[/COLOR] [url=http://mirandir.baldursgateworld.fr/garrick-tt/]Lien[/url]
 [COLOR=MediumTurquoise][B]Gavin NPC [/B][BGT, Tutu, BGEE, EET] (par Galathée)[/COLOR] [url=https://github.com/Gibberlings3/Gavin_BG/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Huple NPC [/B][BGT, Tutu] (par Althéa)[/COLOR] [url=http://corellon.clandlan.net/index.php?page=corellon/bgiwd/huplenpc]Lien[/url]
 [COLOR=MediumTurquoise][B]Indira NPC [/B][BGT, Tutu, BGEE, EET] (par Egrevyn et Elgaern)[/COLOR] [url=https://github.com/Erg-os/Indira_NPC/releases/]Lien[/url]
@@ -225,17 +225,18 @@ TWM (beta - polonais)
 [COLOR=MediumTurquoise][B]Alternatives [/B][BG2, BGT, BG2EE, EET] (par Galathée et jazira)[/COLOR] [url=https://github.com/Gibberlings3/Alternatives/releases]Lien[/url]
 [COLOR="#FF0000"][B]Ascension [/B][BG2, BGT, BG2EE, EET] (par Ly Meng) (Nécessite une mise à jour de la traduction)[/COLOR] [url=https://github.com/InfinityMods/Ascension/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Assassinations [/B][BG2, BGT, BG2EE, EET] (par Le Marquis)[/COLOR] [url=http://www.pocketplane.net/mambo/index.php?option=com_content&task=blogcategory&id=177&Itemid=121]Lien[/url]
-[COLOR=MediumTurquoise][B]Au service d'Oghma [/B][BG2, BGT, BG2EE, EET] (français)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/la-zone-de-telechargement/24078-mods-crees-Quete-au-service-d-oghma-v1-7-a.html]Lien[/url] / [url=https://www.dropbox.com/s/vrplwuj5gz0cahu/ThOghma_v1.8.zip?dl=1]Lien EET[/url]
+[COLOR=MediumTurquoise][B]Au service d'Oghma [/B][BG2, BGT, BG2EE, EET] (français, par Thot)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/la-zone-de-telechargement/24078-mods-crees-Quete-au-service-d-oghma-v1-7-a.html]Lien[/url] / [url=https://www.dropbox.com/s/vrplwuj5gz0cahu/ThOghma_v1.8.zip?dl=1]Lien EET[/url]
 [COLOR=MediumTurquoise][B]Check the Bodies [/B][BG2, BGT, BG2EE, EET] (par Morkhan, La Voix 2 la Sagesse et Asa)[/COLOR] [url=http://www.shsforums.net/files/file/58-check-the-bodies/]Lien[/url]
 [COLOR=MediumTurquoise][B]CoM Encounters [/B][BG2, BGT, BG2EE] (par Thot)[/COLOR] [url=http://www.baldursgatemods.com/forums/index.php?topic=5.0]Lien[/url]
 [COLOR=MediumTurquoise][B]Eilistraee's Song [/B][BG2, BGT, BG2EE, EET] (par Lothringen)[/COLOR] [url=https://www.weaselmods.net/showthread.php?tid=27]Lien[/url]
 [COLOR=Lime][B]Every Mod and Dog [/B][BG2, BGT, BG2EE, EET] (par deratiseur)[/COLOR] [url=https://www.gibberlings3.net/files/file/707-every-mod-and-dog/]Lien[/url]
-[COLOR=MediumTurquoise][B]Extension de la quête de Jan [/B][BG2, BGT, BG2EE, EET] (français)[/COLOR] [url=http://akadis.baldursgateworld.fr/Jan/JansQuestFr.html]Lien[/url]
+[COLOR=MediumTurquoise][B]Extension de la quête de Jan [/B][BG2, BGT, BG2EE, EET] (français, par Kasumi et Akadis)[/COLOR] [url=http://akadis.baldursgateworld.fr/Jan/JansQuestFr.html]Lien[/url]
 [COLOR=MediumTurquoise][B]Fading Promises [/B][BG2, BGT, BG2EE, EET] (par Galathée)[/COLOR] [url=http://www.shsforums.net/files/file/533-fading-promises/]Lien[/url]
 [COLOR=MediumTurquoise][B]I Shall Never Forget [/B][BG2, BGT, BG2EE, EET] (par Lothringen)[/COLOR] [url=https://www.weaselmods.net/showthread.php?tid=26]Lien[/url]
 [COLOR=MediumTurquoise][B]Innershade [/B][BG2, BGT, BG2EE, EET] (par Lothringen)[/COLOR] [url=https://www.weaselmods.net/showthread.php?tid=26]Lien[/url]
-[COLOR=MediumTurquoise][B]Les Exilés de Lunargent [/B][BG2, BGT] (français)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/la-zone-de-telechargement/28954-mods-crees-Quete-les-exiles-de-lunargent-v1-0-a.html]Lien[/url]
-[COLOR=MediumTurquoise][B]L'ogre et le gnome, une histoire de bleu [/B][BG2, BGT, BG2EE] (français)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/l-ogre-et-le-gnome/28812-presentation-Generale-du-module.html]Lien[/url]
+[COLOR=MediumTurquoise][B]Les Exilés de Lunargent [/B][BG2, BGT] (français, par Armand)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/la-zone-de-telechargement/28954-mods-crees-Quete-les-exiles-de-lunargent-v1-0-a.html]Lien[/url]
+[COLOR=MediumTurquoise][B]L'ogre et le gnome, une histoire de bleu [/B][BG2, BGT, BG2EE] (français, par deratiseur)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/l-ogre-et-le-gnome/28812-presentation-Generale-du-module.html]Lien[/url]
+[COLOR=MediumTurquoise][B]Menace sur le Royaume de Diamant Éternel [/B][BG2, BGT, BG2EE, EET] (français, par Freddy_Gwendo)[/COLOR] [url=https://github.com/GwendolyneFreddy/Diamant-Eternel]Lien[/url]
 [COLOR=Lime][B]Quest Pack [/B][BG2, BGT, BG2EE, EET] (par deratiseur)[/COLOR] [url=http://www.pocketplane.net/mambo/index.php?option=com_content&task=blogcategory&id=128&Itemid=100]Lien[/url]
 [COLOR=MediumTurquoise][B]Redemption [/B][BG2/BGT + Ascension] (par Cocobard et The Cursed)[/COLOR] [url=http://www.spellholdstudios.net/ie/redemption]Lien[/url]
 [COLOR=MediumTurquoise][B]Reunion [/B][BG2, BGT, BG2EE, EET] (par Le Marquis)[/COLOR] [url=http://www.pocketplane.net/mambo/index.php?option=com_content&task=blogcategory&id=189&Itemid=127]Lien[/url]
@@ -258,7 +259,7 @@ TWM (beta - polonais)
 [U][B]Challenges tactiques :[/B][/U]
 
 [COLOR=MediumTurquoise][B]Azengaard Tactical Encounter [/B][BG2, BGT, BG2EE, EET] (par Galathée)[/COLOR] [url=http://www.shsforums.net/files/file/658-azenmod-v5/]Lien[/url] / [url=https://github.com/RoxanneSHS/AzengaardEE/]Lien BG2EE-EET (Version non-officielle)[/url]
-[COLOR=MediumTurquoise][B]BuTcHeRy [/B][BG2, BGT, BG2EE, EET] (français)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/butchery/31625-Butchery-v4-0-0-pour-baldur-s-gate-2-et-bg2ee.html]Lien[/url]
+[COLOR=MediumTurquoise][B]BuTcHeRy [/B][BG2, BGT, BG2EE, EET] (français, par DrAzTiK)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/butchery/31625-Butchery-v4-0-0-pour-baldur-s-gate-2-et-bg2ee.html]Lien[/url]
 [COLOR=MediumTurquoise][B]Improved Asylum [/B][BG2, BGT, BG2EE, EET] (par Mathrim Cauthon)[/COLOR] [url=http://www.shsforums.net/files/file/1257-super-firkraag/]Lien[/url]
 [COLOR=MediumTurquoise][B]Revised Battles [/B][BG2, BGT] (par Thot et Maël)[/COLOR] [url=http://www.shsforums.net/files/file/655-revised-battles-v63/]Lien[/url]
 [COLOR=MediumTurquoise][B]Slightly Improved Ilyich [/B][BG2, BGT] (par Lothringen)[/COLOR] [url=http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=178]Lien[/url] 
@@ -269,7 +270,7 @@ TWM (beta - polonais)
 
 [U][B]Mods délires :[/B][/U]
 
-[COLOR=MediumTurquoise][B]Alcool [/B][BG2, BGT, BG2EE] (français)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/la-zone-de-telechargement/24079-mods-crees-delire-Alcool-v0-12-a.html]Lien[/url]
+[COLOR=MediumTurquoise][B]Alcool [/B][BG2, BGT, BG2EE] (français, par Mathrim Cauthon)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/la-zone-de-telechargement/24079-mods-crees-delire-Alcool-v0-12-a.html]Lien[/url]
 
 [U][B]NPCs et Romances :[/B][/U]
 
@@ -290,7 +291,7 @@ TWM (beta - polonais)
 [COLOR=MediumTurquoise][B]de'Arnise Romance [/B][BG2, BGT, BG2EE, EET] (par Mornagest)[/COLOR] [url=http://www.pocketplane.net/mambo/index.php?option=com_content&task=blogcategory&id=119&Itemid=118]Lien[/url]
 [COLOR=MediumTurquoise][B]Edwin Romance [/B][BG2, BGT, BG2EE, EET] (par Erszebeth et Le Marquis)[/COLOR] [url=https://github.com/SpellholdStudios/Edwin_Romance/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Fade NPC [/B][BG2, BG2EE, EET] (par Stargazer)[/COLOR] [COLOR="#FF0000"](Nécessite une mise à jour de la traduction, v5+)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html]Lien[/url]
-[COLOR=MediumTurquoise][B]Gemma (One-Day-NPC) [/B][BG2] (français)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/modules-crees-ou-en-cours-de-developpement/24917-personnage-non-joueur-one-day-npc-Gemma.html]Lien[/url]
+[COLOR=MediumTurquoise][B]Gemma (One-Day-NPC) [/B][BG2] (français, par Zyl)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/modules-crees-ou-en-cours-de-developpement/24917-personnage-non-joueur-one-day-npc-Gemma.html]Lien[/url]
 [COLOR=MediumTurquoise][B]Goo NPC [/B][BG2, BGT] (par Galathée)[/COLOR] [url=http://www.pocketplane.net/mambo/index.php?option=content&task=blogcategory&id=131&Itemid=91]Lien[/url]
 [COLOR=MediumTurquoise][B]Haiass el Lobo [/B][BG2, BGT, Tutu, BGEE, BG2EE, EET] (par Xicloing)[/COLOR] [url=http://www.shsforums.net/files/file/777-haiass-el-lobo/]Lien[/url]
 [COLOR=MediumTurquoise][B]Hanna PNJ [/B][BG2, BGT] (par Althéa)[/COLOR] [url=http://www.shsforums.net/files/file/821-hanna-pnj-v24/]Lien[/url]
@@ -301,8 +302,8 @@ TWM (beta - polonais)
 [COLOR=Lime][B]Kelsey NPC [/B][BG2, BGT, BG2EE, EET] (par Galathée)[/COLOR] [url=http://www.pocketplane.net/mambo/index.php?option=content&task=blogcategory&id=81&Itemid=66]Lien[/url]
 [COLOR=MediumTurquoise][B]Keto NPC [/B][BG2, BGT, BG2EE, EET] (par Galathée et Vazdru Solitaire)[/COLOR] [url=http://www.pocketplane.net/mambo/index.php?option=com_content&task=blogcategory&id=140&Itemid=107]Lien[/url]
 [COLOR=MediumTurquoise][B]Kiara-Zaiya NPC [/B][BG2, BGT, BG2EE, EET] (par Elgaern, Bloody.Mary et Lothringen)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html]Lien[/url]
-[COLOR=MediumTurquoise][B]Kim [/B][BG2, BGT, BG2EE, EET] (français)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html]Lien[/url]
-[COLOR=MediumTurquoise][B]Lysre, la dragonne de poche [/B][BG2, BGT, BG2EE] (français)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/idees/25036-npc-Klare.html]Lien[/url]
+[COLOR=MediumTurquoise][B]Kim [/B][BG2, BGT, BG2EE, EET] (français, par Grenouillebleue)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html]Lien[/url]
+[COLOR=MediumTurquoise][B]Lysre, la dragonne de poche [/B][BG2, BGT, BG2EE] (français, par Klare)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/idees/25036-npc-Klare.html]Lien[/url]
 [COLOR=MediumTurquoise][B]Korgan's Redemption [/B][BG2, BGT, BG2EE, EET] (par Le Marquis)[/COLOR] [url=http://www.shsforums.net/files/file/933-korgans-redemption/]Lien[/url]
 [COLOR=MediumTurquoise][B]Lucy the Wyvern [/B][BG2, BGT, BG2EE, EET] (par Le Marquis)[/COLOR] [url=https://github.com/SpellholdStudios/Lucy_the_Wyvern/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Malthis NPC [/B][BG2] (par Garfield)[/COLOR] [url=https://github.com/Jazira33/Malthis-NPC/releases]Lien[/url]
@@ -313,7 +314,7 @@ TWM (beta - polonais)
 [COLOR=MediumTurquoise][B]Saerileth Romance [/B][BG2, BGT, BG2EE] (par Streen)[/COLOR] [url=http://www.baldursgatemods.com/forums/index.php?PHPSESSID=d2108e0ca16b209d8c838ab500cf0698&topic=4800.0]Lien[/url]
 [COLOR=MediumTurquoise][B]Sarah [/B][BG2, BGT, BG2EE, EET] (par Le Marquis)[/COLOR] [url=https://www.gibberlings3.net/files/file/898-sarah-npc-romance-mod-for-bg2-tob/]Lien[/url]
 [COLOR=MediumTurquoise][B]Sarevok Friendship [/B][BG2, BGT, BG2EE, EET] (par Ixion)[/COLOR] [url=https://github.com/SpellholdStudios/SarevokFriendship/releases]Lien[/url]
-[COLOR=MediumTurquoise][B]Severian de Demerya [/B][BG2, BGT, BG2EE, EET] (français)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html]Lien[/url]
+[COLOR=MediumTurquoise][B]Severian de Demerya [/B][BG2, BGT, BG2EE, EET] (français, par Coyote)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html]Lien[/url]
 [COLOR=MediumTurquoise][B]Sheena NPC, a half dragon tale [/B][BG2, BGT, BG2EE] (par Stargazer et Red Knight)[/COLOR] [url=http://dragonshoard.blackwyrmlair.net/download.php]Lien[/url] / [url=https://forums.beamdog.com/discussion/60784/npc-mod-sheena-the-half-dragon-tale]Lien BG2EE[/url]
 [COLOR=MediumTurquoise][B]Solaufein NPC [/B][BG2, BGT] (par Ly Meng, Archange de la Redemption, Cocobard, Laurent Duvernet, Artemidore, Banshee Sangdelune)[/COLOR] [url=https://weidu.org/]Lien[/url]
 [COLOR=MediumTurquoise][B]Thael NPC [/B][BG2, BGT] (par Althéa)[/COLOR] [url=http://www.shsforums.net/files/file/776-thael-npc-v-232/]Lien[/url]
@@ -334,18 +335,18 @@ TWM (beta - polonais)
 
 [COLOR=MediumTurquoise][B]A Mod For The Orderly [/B][BG2, BGT, BG2EE, EET] (par Sanctifer)[/COLOR] [url=https://www.gibberlings3.net/files/file/702-a-mod-for-the-orderly/]Lien[/url]
 [COLOR=MediumTurquoise][B]Animal Companions [/B][BG2, BGT, Tutu, BGEE, BG2EE, EET, IWDEE] (par Freddy_Gwendo)[/COLOR] [url=http://www.shsforums.net/files/file/1064-animal-companions/]Lien[/url]
-[COLOR=MediumTurquoise][B]Anomaly Tweak Pack [/B][BG1, BG2, BGT, Tutu, BGEE, BG2EE] (français)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/le-bazar-de-l-aventurier/24228-atp-Nouveau-mod-anomaly-tweak-pack-v3-0-a.html]Lien[/url]
+[COLOR=MediumTurquoise][B]Anomaly Tweak Pack [/B][BG1, BG2, BGT, Tutu, BGEE, BG2EE] (français, par Anomaly)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/le-bazar-de-l-aventurier/24228-atp-Nouveau-mod-anomaly-tweak-pack-v3-0-a.html]Lien[/url]
 [COLOR=MediumTurquoise][B]Authentic Mischievous Fairy Dragon [/B][BG2, BGT] (par Le Marquis)[/COLOR] [url=http://www.shsforums.net/files/file/141-authentic-mischievous-fairy-dragon/]Lien[/url]
 [COLOR=MediumTurquoise][B]Ashes of Embers [/B][BG2, BGT, Tutu] (par Thot, Matt et Magière)[/COLOR] [url=http://www.pocketplane.net/mambo/index.php?option=content&task=blogcategory&id=92&Itemid=77]Lien[/url]
 [COLOR=MediumTurquoise][B]aTweaks [/B][BG2, BGT, Tutu, BGEE, BG2EE, EET] (par Mornagest)[/COLOR] [url=http://www.shsforums.net/files/file/709-atweaks-windows-version/]Lien[/url]
-[COLOR=MediumTurquoise][B]AutoRest [/B][BG1, BG2, BGT, Tutu, BGEE, BG2EE, EET, IWD1, IWDEE] (français)[/COLOR] [url=https://forums.beamdog.com/discussion/73318/a-mod-for-auto-resting]Lien[/url]
+[COLOR=MediumTurquoise][B]AutoRest [/B][BG1, BG2, BGT, Tutu, BGEE, BG2EE, EET, IWD1, IWDEE] (français, par deratiseur)[/COLOR] [url=https://forums.beamdog.com/discussion/73318/a-mod-for-auto-resting]Lien[/url]
 [COLOR=MediumTurquoise][B]Bard Song Switching [/B][BG2, BGT] (par Graoumf)[/COLOR] [url=http://www.shsforums.net/files/file/743-bard-song-switching-icewind-mode-for-bg2/]Lien[/url]
 [COLOR=MediumTurquoise][B]BG2 Fixpack [/B][BG2, BGT, BG2EE] (par Anomaly)[/COLOR] [url=https://github.com/Gibberlings3/BG2-Fixpack/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]BG2 Improvements [/B][BG2, BGT, Tutu] (par Corran001)[/COLOR] [url=http://forums.blackwyrmlair.net/index.php?s=7736480b789590ace6cda39898fbfa84&showtopic=1222]Lien[/url]
 [COLOR=MediumTurquoise][B]BP Series Party AI Scripts [/B][BG2, BGT, Tutu, BGEE, BG2EE] (par Isaya et Graoumf)[/COLOR] [url=http://www.shsforums.net/files/file/1025-bp-series-party-ai-for-bg/]Lien[/url]
 [COLOR=MediumTurquoise][B]Cal-Culator [/B][BG2] (par Nathiel)[/COLOR] [url=http://www.pocketplane.net/mambo/index.php?option=content&task=blogcategory&id=131&Itemid=91]Lien[/url]
 [COLOR=MediumTurquoise][B]Cerberus [/B][BG2] (par Le Marquis)[/COLOR] [url=http://www.shsforums.net/files/file/758-cerberus-v106/]Lien[/url]
-[COLOR=MediumTurquoise][B]Deecy Patch [/B][BG2] (français)[/COLOR] [url=http://akadis.baldursgateworld.fr/Deecy_Patch/Deecy_Patch.html]Lien[/url]
+[COLOR=MediumTurquoise][B]Deecy Patch [/B][BG2] (français, par Deecy)[/COLOR] [url=http://akadis.baldursgateworld.fr/Deecy_Patch/Deecy_Patch.html]Lien[/url]
 [COLOR=MediumTurquoise][B]Ding0 Experience Fixer - DEF JAM [/B][BG2, BGT, Tutu] (par Graoumf)[/COLOR] [url=http://www.pocketplane.net/mambo/index.php?option=content&task=blogcategory&id=110&Itemid=83]Lien[/url]
 [COLOR=MediumTurquoise][B]Ding0Tweak [/B][BG2, BGT, Tutu] (par Matt et Graoumf)[/COLOR] [url=http://www.pocketplane.net/mambo/index.php?option=content&task=blogcategory&id=110&Itemid=83]Lien[/url]
 [COLOR=MediumTurquoise][B]Dungeon-Be-Gone [/B][BG2, BGT, BG2EE, EET] (par Thot)[/COLOR] [url=http://www.pocketplane.net/mambo/index.php?option=content&task=blogcategory&id=98&Itemid=79]Lien[/url]
@@ -366,6 +367,7 @@ TWM (beta - polonais)
 [COLOR=MediumTurquoise][B]Sarevok's True Power [/B][BG2] (par BohemianReader)[/COLOR] [url=http://www.shsforums.net/topic/38864-sarevoks-true-power/]Lien[/url]
 [COLOR=MediumTurquoise][B]Semi Multi Clerics Mod / Semi-Multi-Mod [/B][BG2, BG2EE, IWDEE] (par Egrevyn)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html]Lien[/url]
 [COLOR=MediumTurquoise][B]Skip Chateau Irenicus [/B][BG2, BGT, BG2EE, EET] (par Freddy_Gwendo)[/COLOR] [url=https://github.com/Argent77/A7-SkipChateauIrenicus/releases]Lien[/url]
+[COLOR=MediumTurquoise][B]Sorts infinis [/B][BG2](français, par Finrod Felagund)[/COLOR][url=https://www.baldursgateworld.fr/lacouronne/modules-crees-ou-en-cours-de-developpement/17540-misc-Sorts-infinis.html#post180700]Lien[/url]
 [COLOR=MediumTurquoise][B]Spell-50 [/B][BG2][/COLOR] [url=https://weidu.org/spell50.html]Lien[/url]
 [COLOR=MediumTurquoise][B]Spell Revisions [/B][BG2, BGT, Tutu, BGEE, BG2EE, EET] (par Lefreut et Mornagest)[/COLOR] [url=https://github.com/Gibberlings3/SpellRevisions/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Teleport Spell [/B][BG2, BG2EE] (par Skipcool)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html]Lien[/url]
@@ -380,7 +382,7 @@ TWM (beta - polonais)
 
 [COLOR=MediumTurquoise][B]Blood of the Martyr [/B][BG2] (par SkipCool)[/COLOR] [url=http://www.shsforums.net/files/file/142-blood-of-the-martyr/]Lien[/url]
 [COLOR=MediumTurquoise][B]Bolsa [/B][BG2, BGT, BG2EE, EET] (par Elgaern)[/COLOR] [url=https://github.com/GwendolyneFreddy/Bolsa]Lien[/url]
-[COLOR=MediumTurquoise][B]Demon Summon Ritual [/B][BG2, BGT, BG2EE, EET] (par deratiseur)[/COLOR] [url=https://github.com/GwendolyneFreddy/DemonSummoningRitual]Lien[/url]
+[COLOR=MediumTurquoise][B]Demon Summon Ritual [/B][BG2, BGT, BG2EE, EET] (par deratiseur)[/COLOR] [url=https://github.com/SpellholdStudios/DemonSummoningRitual/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Food and Herbal Mod [/B][BG2] (par Garfield)[/COLOR] [url=http://www.baldursgatemods.com/forums/index.php?topic=3267.msg47377#msg47377]Lien[/url]
 [COLOR=MediumTurquoise][B]Heart of the wood [/B][BG2, BG2EE] (par deratiseur)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html]Lien[/url]
 [COLOR=MediumTurquoise][B]Herbs and Potions Add-in for BG2 [/B][BG2, BGT, Tutu] (par Tannerhell)[/COLOR] [url=http://www.blackwyrmlair.net/Mods/herbaddinbg2.php]Lien[/url]
@@ -389,11 +391,11 @@ TWM (beta - polonais)
 [COLOR=MediumTurquoise][B]IWD Item Pack for BG2 [/B][BG2, BG2EE] (par Graoumf)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html]Lien[/url]
 [COLOR=MediumTurquoise][B]IWDification [/B][BG2, BGT, Tutu, BGEE, BG2EE, EET] (par Freddy_Gwendo)[/COLOR] [url=https://github.com/Gibberlings3/iwdification/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Jan's Alchemy [/B][BG2, BG2EE] (par SkipCool)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html]Lien[/url]
-[COLOR=MediumTurquoise][B]Kaya, marchande de sorts [/B][BG2, BG2EE] (français)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/modules-crees-ou-en-cours-de-developpement/32088-personnage-non-joueur-Kaya-marchande-de-sorts-voici-mon-premier-mod.html]Lien[/url]
-[COLOR=MediumTurquoise][B]L'interplan [/B][BG2, BGT, BG2EE] (français)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31563-magasin-l-Interplan-un-magasin-dedie-la-magie.html]Lien[/url]
-[COLOR=MediumTurquoise][B]Mersetek le joaillier [/B][BG2, BG2EE] (français)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/la-zone-de-telechargement/23998-mods-crees-mag-Mersetek-le-joaillier-v1-3-1-a.html]Lien[/url]
+[COLOR=MediumTurquoise][B]Kaya, marchande de sorts [/B][BG2, BG2EE] (français, par Prof Errata)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/modules-crees-ou-en-cours-de-developpement/32088-personnage-non-joueur-Kaya-marchande-de-sorts-voici-mon-premier-mod.html]Lien[/url]
+[COLOR=MediumTurquoise][B]L'interplan [/B][BG2, BGT, BG2EE] (français, par deratiseur)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31563-magasin-l-Interplan-un-magasin-dedie-la-magie.html]Lien[/url]
+[COLOR=MediumTurquoise][B]Mersetek le joaillier [/B][BG2, BG2EE] (français, par Archfiend)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/la-zone-de-telechargement/23998-mods-crees-mag-Mersetek-le-joaillier-v1-3-1-a.html]Lien[/url]
 [COLOR=MediumTurquoise][B]Mortis Mini Mod [/B][BG2, BG2EE] (par Althéa)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html]Lien[/url]
-[COLOR=MediumTurquoise][B]Mystigan [/B][BG2, BG2EE] (français)[/COLOR] [url=http://akadis.baldursgateworld.fr/Mystigan/MystiganFr.html]Lien[/url]
+[COLOR=MediumTurquoise][B]Mystigan [/B][BG2, BG2EE] (français, par Akadis)[/COLOR] [url=http://akadis.baldursgateworld.fr/Mystigan/MystiganFr.html]Lien[/url]
 [COLOR=MediumTurquoise][B]Nanstein [/B][BG2, BG2EE] (par Althéa)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html]Lien[/url]
 [COLOR=MediumTurquoise][B]Planar Sphere Teleporter [/B][BG2, BG2EE] (par Darien)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html]Lien[/url]
 [COLOR=MediumTurquoise][B]Ribald's Genie [/B][BG2, BG2EE] (par La Voix 2 la Sagesse)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html]Lien[/url]
@@ -404,7 +406,7 @@ TWM (beta - polonais)
 [COLOR=MediumTurquoise][B]The Forgotten Children [/B][BG2] (par BohemianReader)[/COLOR] [url=http://www.baldursgatemods.com/forums/index.php?topic=3085.0]Lien[/url]
 [COLOR=MediumTurquoise][B]The Unusual Oddities Shop [/B][BG2, BGT, BG2EE, EET] (par Mathrim Cauthon)[/COLOR] [url=https://github.com/SpellholdStudios/The_Unusual_Oddities_Shop/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]The Sword of Noober [/B][BG2, BGT, BG2EE, EET] (par Le Marquis)[/COLOR] [url=https://github.com/SpellholdStudios/TheSwordofNoober/releases]Lien[/url]
-[COLOR=MediumTurquoise][B]Todd le super Gars testeur [/B][BG2, BGT, BG2EE, IWDEE] (français)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31924-marchand-Todd-le-super-gars-testeur.html]Lien[/url]
+[COLOR=MediumTurquoise][B]Todd le super Gars testeur [/B][BG2, BGT, BG2EE, IWDEE] (français, par deratiseur)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31924-marchand-Todd-le-super-gars-testeur.html]Lien[/url]
 [COLOR=MediumTurquoise][B]Underrepresented Items [/B][BG2, BGT, BG2EE] (par Mathrim Cauthon)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html]Lien[/url]
 [COLOR=MediumTurquoise][B]Unique Containers [/B][BG2, BGT, Tutu] (par Graoumf)[/COLOR] [url=http://www.shsforums.net/files/file/789-unique-containers-v3/]Lien[/url]
 
@@ -415,7 +417,7 @@ TWM (beta - polonais)
 [COLOR=MediumTurquoise][B]Chanter Kit [/B][BG2, BGEE, BG2EE, IWDEE] (par deratiseur)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html]Lien[/url]
 [COLOR=MediumTurquoise][B]Chaos Sorcerer Kit [/B][BGEE, BG2EE, IWDEE, EET] (par deratiseur)[/COLOR] [url=https://github.com/Argent77/A7-ChaosSorcerer/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Charlatan [/B][BGEE, BG2EE, IWDEE, EET] (par Freddy_Gwendo)[/COLOR] [url=https://github.com/Raduziel/Charlatan-Kit/releases]Lien[/url]
-[COLOR=MediumTurquoise][B]Derat's Unused Kits Pack [/B][BG2, BGT, BGEE, BG2EE, EET, IWDEE] (français)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/derat-s-unused-kits-pack/19490-Liens-de-telechargement.html]Lien[/url]
+[COLOR=MediumTurquoise][B]Derat's Unused Kits Pack [/B][BG2, BGT, BGEE, BG2EE, EET, IWDEE] (français, par deratiseur)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/derat-s-unused-kits-pack/19490-Liens-de-telechargement.html]Lien[/url]
 [COLOR=MediumTurquoise][B]Divine Remix [/B][BG2, BGT, Tutu, BGEE, BG2EE, EET, IWDEE] (par La Voix 2 la Sagesse)[/COLOR] [url=https://github.com/Gibberlings3/Divine_Remix/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Geomantic Sorcerer Kit [/B][BG2, BGT, Tutu, BGEE, BG2EE, IWDEE] (par Zooloo)[/COLOR] [url=https://github.com/Gibberlings3/Geomantic_Sorcerer/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Kit Revisions [/B][BG2, BGT, Tutu, BGEE, BG2EE, IWDEE] (par valandil)[/COLOR] [url=https://www.gibberlings3.net/forums/topic/29293-kit-revisions-beta-21/]Lien[/url]
@@ -427,11 +429,11 @@ TWM (beta - polonais)
 [COLOR=MediumTurquoise][B]Morituri Kit [/B][BG2, BGT, BGEE, BG2EE, IWDEE] (par deratiseur)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html]Lien[/url]
 [COLOR=MediumTurquoise][B]Morrow Gate [/B][BG2] (par Shaywen et Zooloo)[/COLOR] [url=http://www.shsforums.net/topic/57823-morrowgate-v09e-a-mod-from-woundedlion/]Lien[/url]
 [COLOR=MediumTurquoise][B]NPC Kit Pack [/B][BG2, BGT, Tutu, BGEE, BG2EE, EET] (par Thot)[/COLOR] [url=https://www.gibberlings3.net/files/file/793-npc-kitpack/]Lien[/url]
-[COLOR=MediumTurquoise][B]Pirate Kit [/B][BG2, BGEE, BG2EE, IWDEE] (français)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html]Lien[/url]
+[COLOR=MediumTurquoise][B]Pirate Kit [/B][BG2, BGEE, BG2EE, IWDEE] (français, par Huxaltec)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html]Lien[/url]
 [COLOR=MediumTurquoise][B]Prestige Kitpack [/B][BG2] (par deratiseur)[/COLOR] [url=http://www.shsforums.net/files/file/632-prestige-kitpack/]Lien[/url]
-[COLOR=MediumTurquoise][B]Prêtre de Bhaal [/B][BG2, BG2EE] (français)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html]Lien[/url]
-[COLOR=MediumTurquoise][B]Prêtre de Mystra [/B][BG2] (français)[/COLOR] [url=http://akadis.baldursgateworld.fr/Mystra/Mystra.html]Lien[/url]
-[COLOR=MediumTurquoise][B]Rôdeur de l'ombre [/B][BG2, BGT, BGEE, BG2EE, EET, IWDEE] (français)[/COLOR] [url=https://github.com/GwendolyneFreddy/Rodeur_Ombre/releases]Lien[/url]
+[COLOR=MediumTurquoise][B]Prêtre de Bhaal [/B][BG2, BG2EE] (français, par esprit)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html]Lien[/url]
+[COLOR=MediumTurquoise][B]Prêtre de Mystra [/B][BG2] (français, par Zakinster)[/COLOR] [url=http://akadis.baldursgateworld.fr/Mystra/Mystra.html]Lien[/url]
+[COLOR=MediumTurquoise][B]Rôdeur de l'ombre [/B][BG2, BGT, BGEE, BG2EE, EET, IWDEE] (français, par esprit)[/COLOR] [url=https://github.com/GwendolyneFreddy/Rodeur_Ombre/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]RTT Kit Pack [/B][BG2, Tutu] (par SkipCool)[/COLOR] [url=http://www.shsforums.net/files/file/51-return-to-trademeet-kit-pack/]Lien[/url]
 [COLOR=MediumTurquoise][B]Shuri-Ninja kit [/B][BG2, BGT, BGEE, BG2EE, EET] (par Aalkaor et Freddy_Gwendo)[/COLOR] [url=https://github.com/GwendolyneFreddy/Shuri-Ninja]Lien[/url]
 [COLOR=MediumTurquoise][B]Song and Silence [/B][BG2, BGT, Tutu, BGEE, BG2EE, EET, IWDEE] (par Zayn et Lothringen)[/COLOR] [url=https://github.com/Gibberlings3/SongAndSilence/releases]Lien[/url]
@@ -531,6 +533,7 @@ Vecna
 
 [U][B]Challenges tactiques :[/B][/U]
 
+D's Odd Quest Mod (Imnesvale)
 Deeper Shadows of Amn
 Domains of Dread
 Improved Anvil
@@ -797,6 +800,7 @@ Rupert the Dye merchant
 Saradas Magic
 Selune's Armoury
 SoD to BG2EE Item Upgrade
+TDDsinTDD (espagnol adapté en anglais)
 TeamBG BG2EE Armor Pack
 TeamBG BG2EE Weapon Pack
 The Improved Volcano!
@@ -935,7 +939,6 @@ Raziel NPC (polonais)
 Runic Bladesinger (polonais)
 Shar-Teel NPC (allemand)
 Skie NPC (polonais)
-TDDsinTDD (espagnol adapté en anglais)
 Trovador Reo (espagnol)
 Uldar NPC (espagnol)
 Vampirmod für Magier (allemand)
@@ -966,7 +969,7 @@ Yeslick (allemand)
 
 [COLOR=MediumTurquoise][B]Bonus Merchant [/B][IWD2] (par JRR Tolkien)[/COLOR] [url=https://weidu.org/iwd2.html]Lien[/url]
 [COLOR=MediumTurquoise][B]Item Upgrade for Icewind Dale [/B][IWD1] (par Lothringen)[/COLOR] [url=https://github.com/Gibberlings3/itemupgrade_iwd/releases]Lien[/url]
-[COLOR=MediumTurquoise][B]Lefreut's enhanced UI [/B][IWDEE] (français)[/COLOR] [url=https://github.com/r-e-d/LeUI-IWDEE/releases]Lien[/url]
+[COLOR=MediumTurquoise][B]Lefreut's enhanced UI [/B][IWDEE] (français, par Lefreut)[/COLOR] [url=https://github.com/r-e-d/LeUI-IWDEE/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Light of Selune [/B][IWD2] (par Luren)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/le-monastere-du-corbeau-noir-icewind-dale-2/31236-traduction-du-mod-Light-selune.html]Lien[/url]
  
 [U][B]Non traduits :[/B][/U]
@@ -1044,7 +1047,7 @@ Thieving Mod for IWDEE
 [COLOR="#FF0000"]09/05/2020 [B]BG1 Romantic Encounters[/B] (par Le Marquis, Zooloo, Shaywen, Lothringen, Galathée et jazira)[/COLOR]
 [COLOR=MediumTurquoise]28/05/2020 Mise à jour de [B]Alternatives[/B] (par Galathée et jazira)[/COLOR]
 [COLOR=MediumTurquoise]31/05/2020 Mise à jour de [B]Sword Coast Stratagems[/B] (par Freddy_Gwendo et jazira) [/COLOR]
-[COLOR=Lime]??/??/???? Mise à jour de [B]BG Mini Quests and Encounters[/B] (par Le Marquis et jazira) (Entre les mains du concepteur)[/COLOR]
+[COLOR=MediumTurquoise]01/06/2020 Mise à jour de [B]BG Mini Quests and Encounters[/B] (par Le Marquis et jazira)[/COLOR]
 [COLOR=Lime]??/??/???? Mise à jour de [B]Anthology Tweak[/B] (par Isaya, Freddy_Gwendo et jazira) (Entre les mains du concepteur)[/COLOR]
 [COLOR=Lime]??/??/???? [B]Every mods and dogs[/B] (par deratiseur) (Entre les mains du concepteur)[/COLOR]
 [COLOR=Lime]??/??/???? Mise à jour de [B]The Southern Edge[/B] (par deratiseur) (Entre les mains du concepteur)[/COLOR]
