@@ -34,7 +34,7 @@ Je laisse la possibilité à quiconque le souhaite d'apporter des modifications 
 
 [U][B]Corrections :[/B][/U]
 
-[COLOR=MediumTurquoise][B]Patch correctif des textes pour Baldur's Gate 1 (et TotSC) [/B][BG1, BGT, Tutu] (français)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/la-zone-de-telechargement/24081-moDs-crees-patch-patch-correctif-des-textes-pour-baldur-s-gate-1-et-totsc-en-vf.html]Lien[/url]
+[COLOR=MediumTurquoise][B]Patch correctif des textes pour Baldur's Gate 1 (et TotSC) [/B][BG1, BGT, Tutu] (français, par Mornagest)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/la-zone-de-telechargement/24081-moDs-crees-patch-patch-correctif-des-textes-pour-baldur-s-gate-1-et-totsc-en-vf.html]Lien[/url]
 
 [U][B]Modules de quêtes - aventures nouvelles et modifications des quêtes existantes :[/B][/U]
 
@@ -188,9 +188,8 @@ TWM (beta - polonais)
 
 [U][B]Traductions et corrections :[/B][/U]
 
-[COLOR=MediumTurquoise][B]Mod semi-officiel de traduction partielle de BG2EE [/B][BG2EE, EET] (français)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/bg2-ee/31540-moD-semi-officiel-de-traduction-partielle-de-bg2ee-v2-5-a.html]Lien[/url]
-[COLOR=MediumTurquoise][B]Textes et voix en français partiels [/B][BG2EE, EET] (français)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/bg2-ee/27825-texTes-et-voix-en-francais-partiels-v1-2-et-1-3-ainsi-que-v2-0-2-3-a.html]Lien[/url]
-[COLOR=MediumTurquoise][B]Patch correctif des textes pour Baldur's Gate 2 (et ToB) [/B][BG2, BGT, Tutu] (français)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/la-zone-de-telechargement/24082-moDs-crees-patch-patch-correctif-des-textes-pour-baldur-s-gate-2-et-tob-en-vf.html]Lien[/url]
+[COLOR=MediumTurquoise][B]Mod semi-officiel de traduction partielle de BG2EE [/B][BG2EE, EET] (français, par Isaya, Freddy_Gwendo, McGregor777, N3ige, Scylla, slip, sombrepiaf, Cruller et Leninator)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/bg2-ee/31540-moD-semi-officiel-de-traduction-partielle-de-bg2ee-v2-5-a.html]Lien[/url]
+[COLOR=MediumTurquoise][B]Patch correctif des textes pour Baldur's Gate 2 (et ToB) [/B][BG2, BGT, Tutu] (français, par Mornagest)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/la-zone-de-telechargement/24082-moDs-crees-patch-patch-correctif-des-textes-pour-baldur-s-gate-2-et-tob-en-vf.html]Lien[/url]
 
 [U][B]Conversions du moteur :[/B][/U]
 
@@ -384,7 +383,7 @@ TWM (beta - polonais)
 [COLOR=MediumTurquoise][B]Bolsa [/B][BG2, BGT, BG2EE, EET] (par Elgaern)[/COLOR] [url=https://github.com/GwendolyneFreddy/Bolsa]Lien[/url]
 [COLOR=MediumTurquoise][B]Demon Summon Ritual [/B][BG2, BGT, BG2EE, EET] (par deratiseur)[/COLOR] [url=https://github.com/SpellholdStudios/DemonSummoningRitual/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Food and Herbal Mod [/B][BG2] (par Garfield)[/COLOR] [url=http://www.baldursgatemods.com/forums/index.php?topic=3267.msg47377#msg47377]Lien[/url]
-[COLOR=MediumTurquoise][B]Heart of the wood [/B][BG2, BG2EE] (par deratiseur)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html]Lien[/url]
+[COLOR=MediumTurquoise][B]Heart of the Wood [/B][BG2, BGT, BG2EE, EET] (par deratiseur)[/COLOR] [url=https://github.com/SpellholdStudios/HeartOfTheWood/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Herbs and Potions Add-in for BG2 [/B][BG2, BGT, Tutu] (par Tannerhell)[/COLOR] [url=http://www.blackwyrmlair.net/Mods/herbaddinbg2.php]Lien[/url]
 [COLOR=MediumTurquoise][B]Item Revisions [/B][BG2, BGT, Tutu, BGEE, BG2EE, EET] (par Syntax, Isaya et Mornagest)[/COLOR] [url=https://github.com/Gibberlings3/ItemRevisions/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Item Upgrade [/B][BG2, BGT, BG2EE, EET] (par Artemidore, Cocobard et Sanctifer)[/COLOR] [url=https://github.com/Pocket-Plane-Group/Item_Upgrade/releases]Lien[/url]
@@ -398,6 +397,7 @@ TWM (beta - polonais)
 [COLOR=MediumTurquoise][B]Mystigan [/B][BG2, BG2EE] (français, par Akadis)[/COLOR] [url=http://akadis.baldursgateworld.fr/Mystigan/MystiganFr.html]Lien[/url]
 [COLOR=MediumTurquoise][B]Nanstein [/B][BG2, BG2EE] (par Althéa)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html]Lien[/url]
 [COLOR=MediumTurquoise][B]Planar Sphere Teleporter [/B][BG2, BG2EE] (par Darien)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html]Lien[/url]
+[COLOR=MediumTurquoise][B]Red Dragon Summoning Spell [/B][BG2, BGT, BG2EE, EET] (par Freddy_Gwendo)[/COLOR] [url=https://github.com/SpellholdStudios/Red_Dragon_Summoning_Spell/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Ribald's Genie [/B][BG2, BG2EE] (par La Voix 2 la Sagesse)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html]Lien[/url]
 [COLOR=MediumTurquoise][B]Rolles [/B][BG2, BGT, BG2EE, EET] (par La Voix 2 la Sagesse)[/COLOR] [url=https://github.com/SpellholdStudios/Rolles/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]RTT Item Pack [/B][BG2, BG2EE] (par SkipCool)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html]Lien[/url]
@@ -413,7 +413,7 @@ TWM (beta - polonais)
 [U][B]Nouveaux kits :[/B][/U]
 
 [COLOR=MediumTurquoise][B]Auror kit for the Ranger Class [/B][BG2] (par deratiseur)[/COLOR] [COLOR="#FF0000"](Nécessite une mise à jour de la traduction, v4+)[/COLOR] [url=https://github.com/Jazira33/Auror-Kit/releases]Lien[/url]
-[COLOR=MediumTurquoise][B]Chantelame Kit [/B][BG2, BGT, Tutu, BGEE, BG2EE, IWDEE][/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/la-zone-de-telechargement/24080-mods-crees-kit-Chantelame-v6.html]Lien[/url]
+[COLOR=MediumTurquoise][B]Chantelame Kit [/B][BG2, BGT, Tutu, BGEE, BG2EE, IWDEE] (français, par Misdrha'al Hymmet)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/la-zone-de-telechargement/24080-mods-crees-kit-Chantelame-v6.html]Lien[/url]
 [COLOR=MediumTurquoise][B]Chanter Kit [/B][BG2, BGEE, BG2EE, IWDEE] (par deratiseur)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html]Lien[/url]
 [COLOR=MediumTurquoise][B]Chaos Sorcerer Kit [/B][BGEE, BG2EE, IWDEE, EET] (par deratiseur)[/COLOR] [url=https://github.com/Argent77/A7-ChaosSorcerer/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Charlatan [/B][BGEE, BG2EE, IWDEE, EET] (par Freddy_Gwendo)[/COLOR] [url=https://github.com/Raduziel/Charlatan-Kit/releases]Lien[/url]
@@ -992,12 +992,13 @@ Tactics4IWD2
 Crossmod Banter Pack (IWD)
 Dendjelion
 Dusky NPC for IWD EE
-Ina
-IWD NPC Project
 IWD2 NPC Project
+IWD NPC Project
+Ina
 Oak-Maw
-Tipps
+T'viy NPC for IWD EE
 The Day of Icewind Dale [IWDEE]
+Tipps
 Turald NPC Mod
 Urchin
 
@@ -1048,9 +1049,10 @@ Thieving Mod for IWDEE
 [COLOR=MediumTurquoise]28/05/2020 Mise à jour de [B]Alternatives[/B] (par Galathée et jazira)[/COLOR]
 [COLOR=MediumTurquoise]31/05/2020 Mise à jour de [B]Sword Coast Stratagems[/B] (par Freddy_Gwendo et jazira) [/COLOR]
 [COLOR=MediumTurquoise]01/06/2020 Mise à jour de [B]BG Mini Quests and Encounters[/B] (par Le Marquis et jazira)[/COLOR]
+[COLOR=MediumTurquoise]10/06/2020 Mise à jour de [B]The Southern Edge[/B] (par deratiseur)[/COLOR]
 [COLOR=Lime]??/??/???? Mise à jour de [B]Anthology Tweak[/B] (par Isaya, Freddy_Gwendo et jazira) (Entre les mains du concepteur)[/COLOR]
 [COLOR=Lime]??/??/???? [B]Every mods and dogs[/B] (par deratiseur) (Entre les mains du concepteur)[/COLOR]
-[COLOR=Lime]??/??/???? Mise à jour de [B]The Southern Edge[/B] (par deratiseur) (Entre les mains du concepteur)[/COLOR]
+[COLOR=Lime]??/??/???? [B]Quest Pack[/B] (par deratiseur) (Entre les mains du concepteur)[/COLOR]
 
 
 
