@@ -25,7 +25,7 @@ Je laisse la possibilité à quiconque le souhaite d'apporter des modifications 
 [IWD2] : Icewind Dale 2
 [IWDEE] : Icewind Dale : Enhanced Edition
 
-[SIZE=1]Les compatibilités listées sont non-exhaustives, ces informations sont receuillies dans les Readme, les Changelog, etc... Ce n'est pas parcequ'un mod n'est pas listé comme compatible BGT, par exemple, qu'il ne l'est pas. Nombres de Readme ne sont plus à jours ou n'existe tout simplement pas...[/SIZE]
+[SIZE=1]Les compatibilités listées sont non-exhaustives, ces informations sont receuillies dans les Readme, les Changelog, etc... Ce n'est pas parcequ'un mod n'est pas listé comme compatible BGT, par exemple, qu'il ne l'est pas. Nombres de Readme ne sont plus à jours ou n'existent tout simplement pas...[/SIZE]
 [SIZE=1]Les liens listés ne pointent pas toujours vers les versions les plus récentes des mods, mais aux versions les plus récentes [U]comportant une traduction française[/U] des mods.[/SIZE]
 
 
@@ -385,6 +385,7 @@ TWM (beta - polonais)
 [COLOR=MediumTurquoise][B]Food and Herbal Mod [/B][BG2] (par Garfield)[/COLOR] [url=http://www.baldursgatemods.com/forums/index.php?topic=3267.msg47377#msg47377]Lien[/url]
 [COLOR=MediumTurquoise][B]Heart of the Wood [/B][BG2, BGT, BG2EE, EET] (par deratiseur)[/COLOR] [url=https://github.com/SpellholdStudios/HeartOfTheWood/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Herbs and Potions Add-in for BG2 [/B][BG2, BGT, Tutu] (par Tannerhell)[/COLOR] [url=http://www.blackwyrmlair.net/Mods/herbaddinbg2.php]Lien[/url]
+[COLOR=MediumTurquoise][B]Improved Haer'Dalis' Swords [/B][BG2, BGT, BG2EE, EET] (par Freddy_Gwendo)[/COLOR] [url=https://github.com/SpellholdStudios/HaerDalis_Swords/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Item Revisions [/B][BG2, BGT, Tutu, BGEE, BG2EE, EET] (par Syntax, Isaya et Mornagest)[/COLOR] [url=https://github.com/Gibberlings3/ItemRevisions/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Item Upgrade [/B][BG2, BGT, BG2EE, EET] (par Artemidore, Cocobard et Sanctifer)[/COLOR] [url=https://github.com/Pocket-Plane-Group/Item_Upgrade/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]IWD Item Pack for BG2 [/B][BG2, BG2EE] (par Graoumf)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html]Lien[/url]
@@ -770,7 +771,6 @@ Freedom's Reign & Reign of Virtue [BGT]
 Gesen Longbow Conversion
 Golem Construction for Spellcasters
 Grimuars
-Haer'Dalis' Swords
 Haste Effects Overriding Improved Haste Fix
 Human Flesh Armor no longer disables spells
 iiItem [Tutu]
@@ -1050,9 +1050,12 @@ Thieving Mod for IWDEE
 [COLOR=MediumTurquoise]31/05/2020 Mise à jour de [B]Sword Coast Stratagems[/B] (par Freddy_Gwendo et jazira) [/COLOR]
 [COLOR=MediumTurquoise]01/06/2020 Mise à jour de [B]BG Mini Quests and Encounters[/B] (par Le Marquis et jazira)[/COLOR]
 [COLOR=MediumTurquoise]10/06/2020 Mise à jour de [B]The Southern Edge[/B] (par deratiseur)[/COLOR]
+[COLOR=MediumTurquoise]12/06/2020 [B]Red Dragon Summoning Spell[/B] (par Freddy_Gwendo)[/COLOR]
+[COLOR=MediumTurquoise]17/06/2020 [B]Improved Haer'Dalis' Swords[/B] (par Freddy_Gwendo)[/COLOR]
 [COLOR=Lime]??/??/???? Mise à jour de [B]Anthology Tweak[/B] (par Isaya, Freddy_Gwendo et jazira) (Entre les mains du concepteur)[/COLOR]
 [COLOR=Lime]??/??/???? [B]Every mods and dogs[/B] (par deratiseur) (Entre les mains du concepteur)[/COLOR]
 [COLOR=Lime]??/??/???? [B]Quest Pack[/B] (par deratiseur) (Entre les mains du concepteur)[/COLOR]
+[COLOR=Lime]??/??/???? [B]Alora NPC[/B] (par tonton-thon) (En relecture)[/COLOR]
 
 
 
