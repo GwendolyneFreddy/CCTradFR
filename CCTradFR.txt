@@ -34,7 +34,7 @@ Je laisse la possibilité à quiconque le souhaite d'apporter des modifications 
 
 [U][B]Corrections :[/B][/U]
 
-[COLOR=MediumTurquoise][B]Patch correctif des textes pour Baldur's Gate 1 (et TotSC) [/B][BG1, BGT, Tutu] (français, par Mornagest)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/la-zone-de-telechargement/24081-moDs-crees-patch-patch-correctif-des-textes-pour-baldur-s-gate-1-et-totsc-en-vf.html]Lien[/url]
+[COLOR=MediumTurquoise][B]Patch correctif des textes pour Baldur's Gate 1 (et TotSC) [/B][BG1, BGT, Tutu] (français, par Mornagest, Zekflop et Isaya)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/la-zone-de-telechargement/24081-moDs-crees-patch-patch-correctif-des-textes-pour-baldur-s-gate-1-et-totsc-en-vf.html]Lien[/url]
 
 [U][B]Modules de quêtes - aventures nouvelles et modifications des quêtes existantes :[/B][/U]
 
@@ -189,7 +189,7 @@ TWM (beta - polonais)
 [U][B]Traductions et corrections :[/B][/U]
 
 [COLOR=MediumTurquoise][B]Mod semi-officiel de traduction partielle de BG2EE [/B][BG2EE, EET] (français, par Isaya, Freddy_Gwendo, McGregor777, N3ige, Scylla, slip, sombrepiaf, Cruller et Leninator)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/bg2-ee/31540-moD-semi-officiel-de-traduction-partielle-de-bg2ee-v2-5-a.html]Lien[/url]
-[COLOR=MediumTurquoise][B]Patch correctif des textes pour Baldur's Gate 2 (et ToB) [/B][BG2, BGT, Tutu] (français, par Mornagest)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/la-zone-de-telechargement/24082-moDs-crees-patch-patch-correctif-des-textes-pour-baldur-s-gate-2-et-tob-en-vf.html]Lien[/url]
+[COLOR=MediumTurquoise][B]Patch correctif des textes pour Baldur's Gate 2 (et ToB) [/B][BG2, BGT, Tutu] (français, par Mornagest, Zekflop et Isaya)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/la-zone-de-telechargement/24082-moDs-crees-patch-patch-correctif-des-textes-pour-baldur-s-gate-2-et-tob-en-vf.html]Lien[/url]
 
 [U][B]Conversions du moteur :[/B][/U]
 
