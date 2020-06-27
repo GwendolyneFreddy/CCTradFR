@@ -380,7 +380,7 @@ TWM (beta - polonais)
 [U][B]Ajouts de Sorts, de Magasins et d'Objets :[/B][/U]
 
 [COLOR=MediumTurquoise][B]Blood of the Martyr [/B][BG2] (par SkipCool)[/COLOR] [url=http://www.shsforums.net/files/file/142-blood-of-the-martyr/]Lien[/url]
-[COLOR=MediumTurquoise][B]Bolsa [/B][BG2, BGT, BG2EE, EET] (par Elgaern)[/COLOR] [url=https://github.com/GwendolyneFreddy/Bolsa]Lien[/url]
+[COLOR=MediumTurquoise][B]Bolsa [/B][BG2, BGT, BG2EE, EET] (par Elgaern)[/COLOR] [url=https://github.com/SpellholdStudios/Bolsa/releases/]Lien[/url]
 [COLOR=MediumTurquoise][B]Demon Summon Ritual [/B][BG2, BGT, BG2EE, EET] (par deratiseur)[/COLOR] [url=https://github.com/SpellholdStudios/DemonSummoningRitual/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Food and Herbal Mod [/B][BG2] (par Garfield)[/COLOR] [url=http://www.baldursgatemods.com/forums/index.php?topic=3267.msg47377#msg47377]Lien[/url]
 [COLOR=MediumTurquoise][B]Heart of the Wood [/B][BG2, BGT, BG2EE, EET] (par deratiseur)[/COLOR] [url=https://github.com/SpellholdStudios/HeartOfTheWood/releases]Lien[/url]
