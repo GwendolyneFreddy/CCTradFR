@@ -404,7 +404,7 @@ TWM (beta - polonais)
 [COLOR=MediumTurquoise][B]RTT Item Pack [/B][BG2, BG2EE] (par SkipCool)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html]Lien[/url]
 [COLOR=MediumTurquoise][B]Ruad Item Upgrade [/B][BG2, BGT, BG2EE, EET] (par Thot et La Voix 2 la Sagesse)[/COLOR] [url=https://github.com/SpellholdStudios/RuadRofhessaItemUpgrade/releases/]Lien[/url]
 [COLOR=MediumTurquoise][B]Rupert the Dye merchant [/B][BG2, BGT, Tutu, BGEE, BG2EE, EET] (par Freddy_Gwendo)[/COLOR] [url=https://github.com/SpellholdStudios/Rupert_the_Dye_Merchant/releases]Lien[/url]
-[COLOR=MediumTurquoise][B]Stuff of the Magi [/B][BG2, BGT, BG2EE, EET] (par deratiseur)[/COLOR] [url=https://github.com/GwendolyneFreddy/StuffofTheMagi]Lien[/url]
+[COLOR=MediumTurquoise][B]Stuff of the Magi [/B][BG2, BGT, BG2EE, EET] (par deratiseur)[/COLOR] [url=https://github.com/SpellholdStudios/StuffofTheMagi/releases/]Lien[/url]
 [COLOR=MediumTurquoise][B]The Forgotten Children [/B][BG2] (par BohemianReader)[/COLOR] [url=http://www.baldursgatemods.com/forums/index.php?topic=3085.0]Lien[/url]
 [COLOR=MediumTurquoise][B]The Unusual Oddities Shop [/B][BG2, BGT, BG2EE, EET] (par Mathrim Cauthon)[/COLOR] [url=https://github.com/SpellholdStudios/The_Unusual_Oddities_Shop/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]The Sword of Noober [/B][BG2, BGT, BG2EE, EET] (par Le Marquis)[/COLOR] [url=https://github.com/SpellholdStudios/TheSwordofNoober/releases]Lien[/url]
