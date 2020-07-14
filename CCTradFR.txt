@@ -240,6 +240,7 @@ TWM (beta - polonais)
 [COLOR=Lime][B]Quest Pack [/B][BG2, BGT, BG2EE, EET] (par deratiseur)[/COLOR] [url=http://www.pocketplane.net/mambo/index.php?option=com_content&task=blogcategory&id=128&Itemid=100]Lien[/url]
 [COLOR=MediumTurquoise][B]Redemption [/B][BG2/BGT + Ascension] (par Cocobard et The Cursed)[/COLOR] [url=http://www.spellholdstudios.net/ie/redemption]Lien[/url]
 [COLOR=MediumTurquoise][B]Reunion [/B][BG2, BGT, BG2EE, EET] (par Le Marquis)[/COLOR] [url=http://www.pocketplane.net/mambo/index.php?option=com_content&task=blogcategory&id=189&Itemid=127]Lien[/url]
+[COLOR=Lime][B]Tangled Oak Isle [/B][BG2, BGT, BG2EE, EET] (par deratiseur)[/COLOR] [url=https://www.weaselmods.net/showthread.php?tid=45]Lien[/url]
 [COLOR=MediumTurquoise][B]Shards of Ice [/B][BG2, BGT, BG2EE, EET] (par La Voix 2 la Sagesse)[/COLOR] [url=https://github.com/Gibberlings3/Shards_of_Ice/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]The Southern edge [/B][BG2, BGT, BG2EE, EET] (par deratiseur)[/COLOR] [url=https://www.weaselmods.net/showthread.php?tid=23]Lien[/url]
 [COLOR=MediumTurquoise][B]Tales of the Deep Gardens [/B][BG2, BGT, BG2EE, EET] (par Lothringen)[/COLOR] [url=https://www.weaselmods.net/showthread.php?tid=26]Lien[/url]
@@ -526,7 +527,6 @@ Region of Terror
 Shadow of the Hierophant - Arena Project
 Shadows over Soubar [BGT]
 Sylmar Battlefield
-Tangled Oak Isle
 Tales of Anegh (allemand adapté en anglais)
 The Cowled Menace
 The Sellswords
@@ -981,6 +981,10 @@ Yeslick (allemand)
 
 Icewind Gate II - beta
 
+[U][B]Modules de quêtes - aventures nouvelles et modifications des quêtes existantes :[/B][/U]
+
+Tale of Our Lady Dreamless
+
 [U][B]Modification des Règles et du Gameplay :[/B][/U]
 
 Cleric domains
@@ -1072,5 +1076,6 @@ Thieving Mod for IWDEE
 [COLOR=Lime]12/04/20 : traduction de [B]Tome & Blood[/B] débutée (par deratiseur)[/COLOR]
 [COLOR=Lime]25/04/20 : traduction de [B]Kelsey[/B] débutée (par Galathée)[/COLOR]
 [COLOR=Lime]24/05/20 : traduction de [B]Alora NPC[/B] débutée (par tonton-thon)[/COLOR]
+[COLOR=Lime]13/07/20 : traduction de [B]Tangled Oak Isle[/B] débutée (par deratiseur)[/COLOR]
 
 Cela vous dérange que votre nom soit cité lors d'une traduction ? N'hésitez pas à me le faire savoir par MP, votre droit à l'anonymat sera respecté.
