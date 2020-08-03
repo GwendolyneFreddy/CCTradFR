@@ -229,7 +229,7 @@ TWM (beta - polonais)
 [COLOR=MediumTurquoise][B]Check the Bodies [/B][BG2, BGT, BG2EE, EET] (par Morkhan, La Voix 2 la Sagesse et Asa)[/COLOR] [url=http://www.shsforums.net/files/file/58-check-the-bodies/]Lien[/url]
 [COLOR=MediumTurquoise][B]CoM Encounters [/B][BG2, BGT, BG2EE] (par Thot)[/COLOR] [url=http://www.baldursgatemods.com/forums/index.php?topic=5.0]Lien[/url]
 [COLOR=MediumTurquoise][B]Eilistraee's Song [/B][BG2, BGT, BG2EE, EET] (par Lothringen)[/COLOR] [url=https://www.weaselmods.net/showthread.php?tid=27]Lien[/url]
-[COLOR=Lime][B]Every Mod and Dog [/B][BG2, BGT, BG2EE, EET] (par deratiseur)[/COLOR] [url=https://www.gibberlings3.net/files/file/707-every-mod-and-dog/]Lien[/url]
+[COLOR=MediumTurquoise][B]Every Mod and Dog [/B][BG2, BGT, BG2EE, EET] (par deratiseur)[/COLOR] [url=https://www.gibberlings3.net/files/file/707-every-mod-and-dog/]Lien[/url]
 [COLOR=MediumTurquoise][B]Extension de la quête de Jan [/B][BG2, BGT, BG2EE, EET] (français, par Kasumi et Akadis)[/COLOR] [url=http://akadis.baldursgateworld.fr/Jan/JansQuestFr.html]Lien[/url]
 [COLOR=MediumTurquoise][B]Fading Promises [/B][BG2, BGT, BG2EE, EET] (par Galathée)[/COLOR] [url=http://www.shsforums.net/files/file/533-fading-promises/]Lien[/url]
 [COLOR=MediumTurquoise][B]I Shall Never Forget [/B][BG2, BGT, BG2EE, EET] (par Lothringen)[/COLOR] [url=https://www.weaselmods.net/showthread.php?tid=26]Lien[/url]
@@ -519,6 +519,7 @@ Expanded Mage Strongold
 Expanded Thief Stronghold
 Fishing for Trouble
 Gibberlings Three Anniversary Mod
+Hidden Adventures
 Iron Modder Competition Packs
 Mordan's Christmas Minimod
 Planar Sphere Mod
@@ -625,6 +626,7 @@ Neh'taniel NPC
 Nephele NPC
 Nikitalleria NPC
 Ninde NPC
+NPC Generator
 NPC_Enhanced for Everyone
 Pai'Na NPC
 Petsy NPC
@@ -640,6 +642,7 @@ Silverstar NPC
 Skie - The Cost of One Girl's Soul
 Skooter NPC
 Solaufein Flirt Pack
+Solaufein's Rescue
 Stivan the Hunter
 Summon Bhaalspawn Sandra
 Swylif Thicc NPC
@@ -984,6 +987,7 @@ Icewind Gate II - beta
 [U][B]Modules de quêtes - aventures nouvelles et modifications des quêtes existantes :[/B][/U]
 
 Tale of Our Lady Dreamless
+Terror of the Skineater
 
 [U][B]Modification des Règles et du Gameplay :[/B][/U]
 
@@ -1059,8 +1063,8 @@ Thieving Mod for IWDEE
 [COLOR=MediumTurquoise]12/06/2020 [B]Red Dragon Summoning Spell[/B] (par Freddy_Gwendo)[/COLOR]
 [COLOR=MediumTurquoise]17/06/2020 [B]Improved Haer'Dalis' Swords[/B] (par Freddy_Gwendo)[/COLOR]
 [COLOR=MediumTurquoise]19/06/2020 [B]Rupert the Dye merchant [/B] (par Freddy_Gwendo)[/COLOR]
+[COLOR=MediumTurquoise]02/08/2020 [B]Every mods and dogs[/B] (par deratiseur)[/COLOR]
 [COLOR=Lime]??/??/???? Mise à jour de [B]Anthology Tweak[/B] (par Isaya, Freddy_Gwendo et jazira) (Entre les mains du concepteur)[/COLOR]
-[COLOR=Lime]??/??/???? [B]Every mods and dogs[/B] (par deratiseur) (Entre les mains du concepteur)[/COLOR]
 [COLOR=Lime]??/??/???? [B]Quest Pack[/B] (par deratiseur) (Entre les mains du concepteur)[/COLOR]
 [COLOR=Lime]??/??/???? [B]Alora NPC[/B] (par tonton-thon) (En relecture)[/COLOR]
 
@@ -1071,7 +1075,6 @@ Thieving Mod for IWDEE
 [COLOR="#FF0000"]04/04/04 : traduction de [B]Tortured Souls (version pour BP)[/B] débutée (En attente d'un repreneur)[/COLOR]
 [COLOR="#FF0000"]15/11/14 : traduction d'[B]Yvette Romance[/B] débutée (En attente d'un repreneur)[/COLOR]
 [COLOR=Lime]18/06/16 : traduction de [B]BG1 Romantic Encounters[/B] débutée (par Le Marquis, Zooloo, Shaywen, Lothringen, Galathée et jazira)[/COLOR]
-[COLOR=Lime]30/03/20 : traduction de [B]Every mods and dogs[/B] débutée (par deratiseur)[/COLOR]
 [COLOR=Lime]01/04/20 : traduction de [B]Quest Pack[/B] débutée (par deratiseur)[/COLOR]
 [COLOR=Lime]12/04/20 : traduction de [B]Tome & Blood[/B] débutée (par deratiseur)[/COLOR]
 [COLOR=Lime]25/04/20 : traduction de [B]Kelsey[/B] débutée (par Galathée)[/COLOR]
