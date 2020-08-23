@@ -38,12 +38,13 @@ Je laisse la possibilité à quiconque le souhaite d'apporter des modifications 
 
 [U][B]Modules de quêtes - aventures nouvelles et modifications des quêtes existantes :[/B][/U]
 
+[COLOR=Lime][B]Ascalons Questpack [/B] [BG2, BGT, Tutu, BGEE, BG2EE, EET] (par deratiseur)[/COLOR] [url=https://github.com/Gitjas/AC_QUEST/releases/]Lien[/url]
 [COLOR=MediumTurquoise][B]BG Mini Quests and Encounters [/B][BG1, BGT, Tutu, BGEE, EET] (par Le Marquis et jazira)[/COLOR] [url=https://github.com/Gibberlings3/BG_Quests_And_Encounters/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]BG1 Unfinished Business [/B][BG1, BGT, Tutu, BGEE, EET] (par IronFistedGiant, ForeverDream et Isaya)[/COLOR] [url=https://github.com/AstroBryGuy/bg1ub/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Dark Horizons [/B][BG1, BGT, Tutu, BGEE, EET] (par Sanctifer)[/COLOR] [url=http://www.baldursgatemods.com/forums/index.php?PHPSESSID=c081241853941e2f9b832282a3994726&topic=4828.0]Lien[/url]
 [COLOR=MediumTurquoise][B]Dark Side of the Sword Coast[/B] [BG1, BGT, Tutu, BGEE, EET] (par Isaya et Mornagest)[/COLOR] [url=http://www.baldursgatemods.com/forums/index.php?topic=449.0]Lien BG1[/url] / [url=http://www.baldursgatemods.com/forums/index.php?topic=8255.0]Lien Tutu-BGEE[/url] / [url=https://github.com/SpellholdStudios/DSotSC/releases]Lien BGT-EET[/url]
-[COLOR=Lime][B]Endless BG1[/B] [BGT, BGEE, EET] (par Freddy_Gwendo)[/COLOR] [url=https://github.com/Gibberlings3/EndlessBG1/releases]Lien[/url]
-[COLOR=MediumTurquoise][B]Le Champion De Bhaal[/B] [BGT] (français, par Cocrane) [/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/le-champion-de-bhaal/32721-Telechargement-du-mod.html]Lien[/url]
+[COLOR=Lime][B]Endless BG1 [/B] [BGT, BGEE, EET] (par Freddy_Gwendo)[/COLOR] [url=https://github.com/Gibberlings3/EndlessBG1/releases]Lien[/url]
+[COLOR=MediumTurquoise][B]Le Champion De Bhaal [/B] [BGT] (français, par Cocrane) [/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/le-champion-de-bhaal/32721-Telechargement-du-mod.html]Lien[/url]
 [COLOR=MediumTurquoise][B]The Drizzt Saga [/B][BG1, BGT, Tutu, BGEE, EET] (par Lostbrain et phoeunix)[/COLOR] [url=http://www.blackwyrmlair.net/Mods/drizztsaga.php]Lien[/url] / [url=https://github.com/MattyGroove/DrizztSaga/releases]Lien EET (Version non-officielle)[/url]
 [COLOR=MediumTurquoise][B]The Grey Clan Episode 1 - In Candlelight [/B][BG1, BGT, Tutu, BGEE, EET] (par JaNcEn47 et Galathée)[/COLOR] [url=http://greyclan.blackwyrmlair.net/ep1/]Lien[/url] / [url=https://github.com/K4thos/TGC1e/]Lien BGEE-EET[/url]
 [COLOR=MediumTurquoise][B]The Lure of Sirine's Call [/B][BG1, BGT, Tutu, BGEE, EET] (par Egrevyn)[/COLOR] [url=https://github.com/Pocket-Plane-Group/Lure_Of_Sirines_Call/releases]Lien[/url]
@@ -94,7 +95,6 @@ Je laisse la possibilité à quiconque le souhaite d'apporter des modifications 
 [SPOILER]
 [U][B]Modules de quêtes - aventures nouvelles et modifications des quêtes existantes :[/B][/U]
 
-Ascalons Questpack [BGT] (allemand adapté en anglais)
 Brage's Redemption
 Critter Parts mini-mod for Baldur’s Gate: EE
 Dark Side of the Sword Coast [BGT]
@@ -248,6 +248,7 @@ TWM (beta - polonais)
 [COLOR=MediumTurquoise][B]The Darkest Day [/B][BG2, BGT, BG2EE, EET] (par Isaya, PapaOlive et Krull)[/COLOR] [url=http://www.shsforums.net/files/file/323-the-darkest-day-v114/]Lien[/url] / [url=https://github.com/InfinityMods/TDDz/releases]Lien BG2EE-EET[/url]
 [COLOR=MediumTurquoise][B]The Minautor and Lilarcor [/B][BG2, BGT, BG2EE, EET] (par Le Marquis)[/COLOR] [url=http://www.shsforums.net/files/file/818-the-minotaur-and-lilacor/]Lien[/url]
 [COLOR=MediumTurquoise][B]The Ooze Lounge [/B][BG2, BGT, BG2EE, EET] (par deratiseur)[/COLOR] [url=https://www.weaselmods.net/showthread.php?tid=24]Lien[/url]
+[COLOR=Lime][B]The Sellswords [/B][BG2, BGT, BG2EE, EET] (par deratiseur) [/COLOR] [url=https://github.com/Pocket-Plane-Group/Sellswords/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]The Slithering Menace [/B][BG2, BGT, BG2EE, EET] (par La Voix 2 la Sagesse)[/COLOR] [url=https://github.com/GwendolyneFreddy/TheSlitheringMenace/releases]Lien[/url] 
 [COLOR=MediumTurquoise][B]The Tortured Soul Quest [/B][BG2, BGT] (par Fouinto)[/COLOR] [url=http://www.shsforums.net/files/file/149-the-tortured-soul-quest/]Lien[/url] 
 [COLOR=MediumTurquoise][B]The White Queen [/B][BG2, BGT, BG2EE, EET] (par Lothringen)[/COLOR] [url=https://www.weaselmods.net/showthread.php?tid=26]Lien[/url]
@@ -373,7 +374,6 @@ TWM (beta - polonais)
 [COLOR=MediumTurquoise][B]Spell Revisions [/B][BG2, BGT, Tutu, BGEE, BG2EE, EET] (par Lefreut et Mornagest)[/COLOR] [url=https://github.com/Gibberlings3/SpellRevisions/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Teleport Spell [/B][BG2, BG2EE] (par Skipcool)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html]Lien[/url]
 [COLOR=MediumTurquoise][B]TobEx [/B][BG2, BGT] (par Isaya)[/COLOR] [url=http://www.shsforums.net/files/file/871-bg2tob-throne-of-bhaal-extender/]Lien[/url]
-[COLOR=Lime][B]Tome & Blood [/B][BG2, BGT, Tutu, BGEE, BG2EE, EET, IWDEE] (par deratiseur)[/COLOR] [url=https://github.com/subtledoctor/TomeAndBlood/releases]Lien[/url]
 [COLOR="#FF0000"][B]Tweak Anthology [/B][BG1, BG2, BGT, Tutu, BGEE, BG2EE, EET, IWD1, IWD2, IWDEE] (par Graoumf, Elgaern, elminster, Isaya, Anomaly)(Nécessite une mise à jour de la traduction[/COLOR] / [COLOR=Lime]en cours par jazira)[/COLOR] [url=https://github.com/Gibberlings3/Tweaks-Anthology/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Virtue [/B][BG2, BGT] (par Raphaël Mizrahi)[/COLOR] [url=http://www.pocketplane.net/mambo/index.php?option=content&task=blogcategory&id=107&Itemid=82]Lien[/url] / [url=https://drive.google.com/open?id=1Iiol2aSU6RmDea3q5sn29Enn4WTSeLFK]Lien BGT (alpha)[/url]
 [COLOR=MediumTurquoise][B]W_PackMule [/B][BG2, BGT, Tutu, BGEE, BG2EE] (par Galathée)[/COLOR] [url=http://www.shsforums.net/files/file/954-w-packmule/]Lien[/url]
@@ -531,7 +531,6 @@ Shadows over Soubar [BGT]
 Sylmar Battlefield
 Tales of Anegh (allemand adapté en anglais)
 The Cowled Menace
-The Sellswords
 Tortured Souls (version stand-alone)
 Tortured Souls-BP [BGT]
 Turnabout [BGT]
@@ -745,6 +744,7 @@ The G3 Debugging Suite
 The Horde
 The MTS Crappack
 Timestop Tweak
+Tome & Blood
 Tougher Enemies tweak
 Tresset's Choice Tweaks
 True "Use Any item Hla" 
@@ -959,6 +959,9 @@ Yeslick (allemand)
 [U][B]Modules de quêtes - aventures nouvelles et modifications des quêtes existantes :[/B][/U]
 
 [COLOR=MediumTurquoise][B]Auril's Bane (version TotL) [/B][IWD1] (par Morkhan et Graoumf)[/COLOR] [url=http://www.baldursgatemods.com/forums/index.php?topic=42.0]Lien[/url]
+[COLOR=MediumTurquoise][B]Night of the Blinking Dead [/B][IWDEE] (par deratiseur)[/COLOR] [url=https://downloads.weaselmods.net/download/night-of-the-blinking-dead/]Lien[/url]
+[COLOR=MediumTurquoise][B]Tale of Our Lady Dreamless [/B][IWDEE] (par deratiseur)[/COLOR] [url=https://downloads.weaselmods.net/download/tale-of-our-lady-dreamless/]Lien[/url]
+[COLOR=MediumTurquoise][B]Terror of the Skineater [/B][IWDEE] (par deratiseur)[/COLOR] [url=https://downloads.weaselmods.net/download/terror-of-the-skineater/]Lien[/url]
 [COLOR=MediumTurquoise][B]Trial of the Luremaster [/B][IWD1] (traduction officielle)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/la-zone-de-telechargement/24779-patch-icewind-dale-heart-winter-v1-42-incluant-Trial-luremaster.html]Lien[/url]
 [COLOR=MediumTurquoise][B]Undead Targos [/B][IWD2] (par Graoumf)[/COLOR] [url=https://weidu.org/iwd2.html]Lien[/url]
 [COLOR=MediumTurquoise][B]Unfinished Business for IWD [/B][IWD1, EET, IWDEE] (par ForeverDream)[/COLOR] [url=https://github.com/Gibberlings3/iwd_unfinished_business/releases]Lien[/url]
@@ -972,7 +975,10 @@ Yeslick (allemand)
 
 [U][B]Kits, magasins et modification graphiques, des règles et du gameplay :[/B][/U]
 
+[COLOR=MediumTurquoise][B]Below & Below Inn [/B][IWDEE] (par deratiseur)[/COLOR] [url=https://downloads.weaselmods.net/download/below-below-inn/]Lien[/url]
 [COLOR=MediumTurquoise][B]Bonus Merchant [/B][IWD2] (par JRR Tolkien)[/COLOR] [url=https://weidu.org/iwd2.html]Lien[/url]
+[COLOR=MediumTurquoise][B]FindIt-IWD [/B][IWDEE] (par deratiseur)[/COLOR] [url=https://downloads.weaselmods.net/download/findit-iwd/]Lien[/url]
+[COLOR=MediumTurquoise][B]ForgeIt-IWD [/B][IWDEE] (par deratiseur)[/COLOR] [url=https://downloads.weaselmods.net/download/forgeit-iwd/]Lien[/url]
 [COLOR=MediumTurquoise][B]Item Upgrade for Icewind Dale [/B][IWD1] (par Lothringen)[/COLOR] [url=https://github.com/Gibberlings3/itemupgrade_iwd/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Lefreut's enhanced UI [/B][IWDEE] (français, par Lefreut)[/COLOR] [url=https://github.com/r-e-d/LeUI-IWDEE/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Light of Selune [/B][IWD2] (par Luren)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/le-monastere-du-corbeau-noir-icewind-dale-2/31236-traduction-du-mod-Light-selune.html]Lien[/url]
@@ -986,7 +992,6 @@ Icewind Gate II - beta
 
 [U][B]Modules de quêtes - aventures nouvelles et modifications des quêtes existantes :[/B][/U]
 
-Tale of Our Lady Dreamless
 Terror of the Skineater
 
 [U][B]Modification des Règles et du Gameplay :[/B][/U]
@@ -1018,12 +1023,9 @@ A Frosty Journey: The IWDEE Kitpack
 Add Morningstar of Action +4 to random treasure list
 Ammo belts and bottomless bags
 Duskblade Kit
-FindIt-IWD
-ForgeIt-IWD
 House Rules for IWD:EE
 IWD:EE Portrait Variations
 Minor NPC Portraits for IWDEE
-Night of the Blinking Dead
 No restrictions
 Runescarred Berserker
 Stronger Creatures - Simple Difficulty Mod
@@ -1067,6 +1069,12 @@ Thieving Mod for IWDEE
 [COLOR=MediumTurquoise]02/08/2020 [B]Every mods and dogs[/B] (par deratiseur)[/COLOR]
 [COLOR=MediumTurquoise]05/08/2020 [B]Darron [/B] (par Freddy_Gwendo)[/COLOR]
 [COLOR=MediumTurquoise]14/08/2020 [B]Tangled Oak Isle [/B] (par deratiseur)[/COLOR]
+[COLOR=MediumTurquoise]17/08/2020 [B]Below & Below Inn [/B] (par deratiseur)[/COLOR]
+[COLOR=MediumTurquoise]17/08/2020 [B]Night of the Blinking Dead [/B] (par deratiseur)[/COLOR]
+[COLOR=MediumTurquoise]18/08/2020 [B]Tale of Our Lady Dreamless [/B] (par deratiseur)[/COLOR]
+[COLOR=MediumTurquoise]18/08/2020 [B]Terror of the Skineater [/B] (par deratiseur)[/COLOR]
+[COLOR=MediumTurquoise]18/08/2020 [B]FindIt-IWD [/B] (par deratiseur)[/COLOR]
+[COLOR=MediumTurquoise]18/08/2020 [B]ForgeIt-IWD [/B] (par deratiseur)[/COLOR]
 [COLOR=Lime]??/??/???? Mise à jour de [B]Anthology Tweak[/B] (par Isaya, Freddy_Gwendo et jazira) (Entre les mains du concepteur)[/COLOR]
 [COLOR=Lime]??/??/???? [B]Quest Pack[/B] (par deratiseur) (Entre les mains du concepteur)[/COLOR]
 [COLOR=Lime]??/??/???? [B]Alora NPC[/B] (par tonton-thon) (En relecture)[/COLOR]
@@ -1077,11 +1085,13 @@ Thieving Mod for IWDEE
 
 [COLOR="#FF0000"]04/04/04 : traduction de [B]Tortured Souls (version pour BP)[/B] débutée (En attente d'un repreneur)[/COLOR]
 [COLOR="#FF0000"]15/11/14 : traduction d'[B]Yvette Romance[/B] débutée (En attente d'un repreneur)[/COLOR]
+[COLOR="#FF0000"]12/04/20 : traduction de [B]Tome & Blood[/B] débutée (En attente d'un repreneur)[/COLOR]
 [COLOR=Lime]18/06/16 : traduction de [B]BG1 Romantic Encounters[/B] débutée (par Le Marquis, Zooloo, Shaywen, Lothringen, Galathée et jazira)[/COLOR]
 [COLOR=Lime]01/04/20 : traduction de [B]Quest Pack[/B] débutée (par deratiseur)[/COLOR]
-[COLOR=Lime]12/04/20 : traduction de [B]Tome & Blood[/B] débutée (par deratiseur)[/COLOR]
 [COLOR=Lime]25/04/20 : traduction de [B]Kelsey[/B] débutée (par Galathée)[/COLOR]
 [COLOR=Lime]24/05/20 : traduction de [B]Alora NPC[/B] débutée (par tonton-thon)[/COLOR]
 [COLOR=Lime]07/08/20 : traduction de [B]Endless BG1[/B] débutée (par Freddy_Gwendo)[/COLOR]
+[COLOR=Lime]19/08/20 : traduction de [B]Ascalons Questpack[/B] (par deratiseur) [/COLOR]
+[COLOR=Lime]19/08/20 : traduction de [B]The Sellswords[/B] (par deratiseur) [/COLOR]
 
 Cela vous dérange que votre nom soit cité lors d'une traduction ? N'hésitez pas à me le faire savoir par MP, votre droit à l'anonymat sera respecté.
