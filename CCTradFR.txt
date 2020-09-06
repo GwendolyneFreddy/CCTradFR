@@ -171,6 +171,7 @@ Verr'Sza NPC [BGEE]
 Vienxay, a Elven Shadowdancer Mage NPC for BG:EE + SoD
 Vynd [BGT, Tutu, BGEE]
 White NPC [BGT, Tutu, BGEE]
+Zakrion
 [/SPOILER]
 
 [U][B]Mods dans une langue autre que l'anglais :[/B][/U]
@@ -212,6 +213,7 @@ TWM (beta - polonais)
 [COLOR=MediumTurquoise][B]BG2 GUI skin MOD [/B][BG2][/COLOR] [url=http://www.blackwyrmlair.net/~chevar/guimod1.html]Lien[/url]
 [COLOR=MediumTurquoise][B]Enkida's Portrait Pack [/B][BG2, BGT][/COLOR] [url=http://www.shsforums.net/files/file/993-enkidas-portrait-pack/]Lien[/url]
 [COLOR=MediumTurquoise][B]NPC Damage mod [/B][BG2][/COLOR] [url=http://www.shsforums.net/files/file/615-npc-damage/]Lien[/url]
+[COLOR=MediumTurquoise][B]One Pixel Productions [/B][BG2, BGT, Tutu, IWD1, IWD2] (par Freddy_Gwendo)[/COLOR] [url=https://github.com/SpellholdStudios/1pp/releases/]Lien[/url]
 [COLOR=MediumTurquoise][B]Original BG1 GUI [/B][BG2, BGT, Tutu][/COLOR] [url=http://www.pocketplane.net/mambo/index.php?option=content&task=blogcategory&id=134&Itemid=94]Lien[/url]
 [COLOR=MediumTurquoise][B]Thrown Hammers [/B][BG1, BG2, BGT, Tutu, BGEE, BG2EE, EET, IWD1, IWD2, IWDEE] (par Le Marquis)[/COLOR] [url=https://github.com/Sampsca/ThrownHammers/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]W_GUI [/B][BG2, Tutu] (par Isaya et Aranthys)[/COLOR] [url=http://www.shsforums.net/files/file/990-w-gui/]Lien[/url]
@@ -492,7 +494,6 @@ Lore friendly portrait pack
 Mods Options
 Mr. Pennyway's Cosmetic Changes
 Multi-Portrait mod 
-One Pixel Productions [BGEE, BGT, Tutu, BG2EE]
 PaintBG
 PC Soundsets
 Phaere's NPC Portrait Pack
@@ -1075,6 +1076,7 @@ Thieving Mod for IWDEE
 [COLOR=MediumTurquoise]18/08/2020 [B]Terror of the Skineater [/B] (par deratiseur)[/COLOR]
 [COLOR=MediumTurquoise]18/08/2020 [B]FindIt-IWD [/B] (par deratiseur)[/COLOR]
 [COLOR=MediumTurquoise]18/08/2020 [B]ForgeIt-IWD [/B] (par deratiseur)[/COLOR]
+[COLOR=MediumTurquoise]30/08/2020 [B]One Pixel Productions [/B] (par Freddy_Gwendo)[/COLOR]
 [COLOR=Lime]??/??/???? Mise à jour de [B]Anthology Tweak[/B] (par Isaya, Freddy_Gwendo et jazira) (Entre les mains du concepteur)[/COLOR]
 [COLOR=Lime]??/??/???? [B]Quest Pack[/B] (par deratiseur) (Entre les mains du concepteur)[/COLOR]
 [COLOR=Lime]??/??/???? [B]Alora NPC[/B] (par tonton-thon) (En relecture)[/COLOR]
