@@ -104,12 +104,14 @@ Northen Tales of the Sword Coast [BGT]
 The Drizzt Saga - version normale
 The Vault - version normale [Tutu]
 
-[U][B]Kits, magasins et modification graphiques, des règles et du gameplay :[/B][/U]
+[U][B]Kits, magasins, modification sonores et graphiques, des règles et du gameplay :[/B][/U]
 
+A Few Less Master Areas
 BG1 Tweaks
 BG2:EE Antique Amber GUI
 BG2EE GUI To BGEE
 BG:EE Kitpack 
+NPC Bodies
 Back to Baldur's Gate
 Barbed Club of Pain
 Continous Viconia Appearance for BG1EE, BG2EE, SOD and EET
@@ -122,23 +124,29 @@ Firewalker (non-WeiDU)
 Harden Coonors Tutu-AddOn [Tutu]
 High Power Baldur's Gate
 Improved GUI
+Infinity Sounds
 Jaheira Recast
 Jastey's SoD Tweak Pack
 Journal Fixes
 Lighting Pack
-Made in Heaven
+Made in Heaven : Encounters and Quests
+Made in Heaven : Item Pack
+Made in Heaven : Spell Pack
 Map Notes [Tutu]
 Mix-Mod [Tutu]
 Multi-portrait Mod
 Nerfed Ankheg Armor
 No Race Restrictions Mod
+Out, Brief Candlekeep!
 Portrait Picker
 Portraits Portraits Everywhere
 Quick Save Slots Tweaks 1.2
 Recolored toolbar buttons
+Replacement sounds for the interface
 Restored BG1 Casting Sounds [Tutu]
 Simple XP cap remover
 SoD Dialogue Banters
+Some Individuals
 Taunt Spell
 The Fields of the Dead [BGT, Tutu, BGEE]
 The Picture Standard for BGEE 1 & 2
@@ -323,7 +331,7 @@ TWM (beta - polonais)
 [COLOR=MediumTurquoise][B]Solaufein NPC [/B][BG2, BGT] (par Ly Meng, Archange de la Redemption, Cocobard, Laurent Duvernet, Artemidore, Banshee Sangdelune)[/COLOR] [url=https://weidu.org/]Lien[/url]
 [COLOR=MediumTurquoise][B]Thael NPC [/B][BG2, BGT] (par Althéa)[/COLOR] [url=http://www.shsforums.net/files/file/776-thael-npc-v-232/]Lien[/url]
 [COLOR=MediumTurquoise][B]Tashia NPC [/B][BG2, BGT, BG2EE, EET] (par Yoho)[/COLOR] [COLOR="#FF0000"](Nécessite une mise à jour de la traduction, Tashia remix)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html]Lien[/url]
-[COLOR=MediumTurquoise][B]The Longer Road [/B][BG2, BGT, BG2EE/EET + Ascension] (par Erszebeth)[/COLOR] [url=http://www.onlinefiction.net/LR/LongerRoad.html]Lien[/url] / [url=https://github.com/InfinityMods/LongerRoadEE/releases]Lien BG2EE-EET[/url]
+[COLOR=MediumTurquoise][B]The Longer Road [/B][BG2, BGT, BG2EE/EET + Ascension] (par Erszebeth)[/COLOR] [url=https://github.com/InfinityMods/LongerRoadEE/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Tiax for BG2 (One-Day NPC) [/B][BG2, BGT, BG2EE, EET] (par Eleima)[/COLOR] [url=https://github.com/Pocket-Plane-Group/Tiax_for_BGII/releases/]Lien[/url]
 [COLOR=MediumTurquoise][B]Totemic Cernd [/B][BG2, BGT] (par Isaya)[/COLOR] [url=hhttps://github.com/Gibberlings3/Totemic_Cernd/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Tsujatha Melalor [/B][BG2, BGT, BG2EE] (par La Voix 2 la Sagesse, Egrevyn et DarkWintermoon)[/COLOR] [url=http://www.baldursgatemods.com/forums/index.php?PHPSESSID=46e9b11906c4c2d9e4e4a6334bb517e1&topic=4801.0]Lien[/url]
@@ -471,11 +479,14 @@ Xando
 
 [U][B]Modifications graphiques ou sonores :[/B][/U]
 
+Ace's Enchanters Portrait Pack
+Aftermotions
 Artaport
 Artastrophe portraits
 Better Quick Loot
 BG1 Voices  for BG2
 BG2 EE portraits
+Beholder rays
 Bubb's Spell Menu
 Change your Robe in a Yiffy!
 Contagion GUI
@@ -484,8 +495,11 @@ Custom Soundsets
 Damian Soundset
 Darkest Dungeon Soundset
 Diablo characters Skin mod
+Dragon Age Portraits
 Druid Grove makeover
+Elements of Destruction
 Elven Ranger Avatar
+Impish Makeover
 Isandir's Portrait Pack
 IWD GUI
 IWD2 GUI
@@ -522,8 +536,10 @@ Expanded Thief Stronghold
 Fishing for Trouble
 Gibberlings Three Anniversary Mod
 Hidden Adventures
+Imoen Is Stone
 Iron Modder Competition Packs
 Mordan's Christmas Minimod
+Paladins of Faerun Quest Pack
 Planar Sphere Mod
 PlanarSphere Return
 Region of Terror
@@ -549,6 +565,7 @@ The bigg Quest Pack [BGT]
 [B][U]Mods délires[/U]
 
 Adventures in Papperland
+Ass
 Cloakwood Squares
 Square Mod
 The Jerry Zinger Show [BGT]
@@ -617,6 +634,7 @@ Kivan and Deheriana Companions [BGT]
 Korgan Friendship
 La'Viconia
 LaValygar
+Lena
 Mazzy the Paladin
 Minsc Friendship
 Moddie (One Day NPC)
@@ -673,12 +691,14 @@ Yvette Romance
 
 3.5 Edition / Pathfinder style Tweaks Collection
 Alternate BG2 Spell System
+Animate Dead Now
 APR on Spec
 Arcane-Divine Spell Pack
 Artemius_I's House Rule Tweaks
 Baldurs-gate-dnd-3.5 
 Bubb's Auto Looting
 cbisson's Familiar Pack
+Charmed, I'm Sure
 Chars as starters pack
 Clear Fog of War
 Congenio's Pebble Collection - Use Multiple Ioun Stones
@@ -697,33 +717,45 @@ Experience cap remover and new hla for triclass
 Fake Import Mod Drizzt May Live Edition
 Fast trap detection
 FinnJO's Subrace Mod
+Flanks and Rear
 Full Plate and Packing Steel
 Game Assistant Scripts
 Hardcore Dual
 Hell Recollection 1
 High Level Abilities as Innate Abilities
 High Level HLA fix
+Hoarders
 iiLearn Through Use Mod [Tutu]
 iiSpell System Adjustment
 iiTweak [Tutu]
 Improved Movement speed Out of combat
+Initiative
+Jacob's Ladder
 K's Dual Class
 Kensai Ryu's Restored Drow Innates Abilities
 Key Names
 King Dutka's Disarm Trap Spell
 Klatu tweaks and fixes
 Level adder
+Loot panel for BG2
 Low Magic World
 Magic Battles Revised
 Mang0's Hip Hop Mod
+March Arrows 
+Mercy
+Minions Tied to Summoner
 Mix-Mod [BGT]
 Mod Kit Remover
 Mod NPC
 MOD so Cromwell does NOT take a day?
 Mods by AB
 Moinesse's Avatars [Tutu]
+Monsters Beat Enchantment 
+No Critical Misses
 NPC Strongholds
+Out of Commission
 Parangon Mode
+Perilous Streets
 PnP Free Action
 Polytweak
 Proficiencies
@@ -740,6 +772,9 @@ Spellcasting in light armor
 Spell system tweak : Tattoos of Power + Sorcerers can change spells
 SpellPack
 Spontaneous Casting for Clerics and Druids
+Start to Finish
+SubtleDoctor's Random Tweaks
+Surprise
 The Bigg Tweak Pack
 The G3 Debugging Suite
 The Horde
@@ -747,6 +782,7 @@ The MTS Crappack
 Timestop Tweak
 Tome & Blood
 Tougher Enemies tweak
+Transitions
 Tresset's Choice Tweaks
 True "Use Any item Hla" 
 Twist Pack
@@ -758,6 +794,7 @@ Zyraen's Miscellany
 
 [U][B]Ajouts de Sorts, de Magasins et d'Objets :[/B][/U]
 
+Adventurer's Miscellany
 Alex Macintosh
 Bag Bonus
 Bala's Axe Fix
@@ -771,9 +808,11 @@ Cloak of the Shield Change
 Compact Aura Cleanser
 Craig's Bottomless Containers
 Dee Summoning Spell
+Detect Magic/Intimidation
 Edvin's Fixed items
 Evilness
 Exnem's Addon
+First Aid
 Foebane +3 and +5 improvement mod
 Freedom's Reign & Reign of Virtue [BGT]
 Gesen Longbow Conversion
@@ -814,6 +853,7 @@ The Improved Volcano!
 The Magnificient Magic Store
 The One Ring
 Unbiased Ir'revrykal+5 mod
+Ultravision
 Unofficial Item Pack
 Upgradable Dak'kon's Blade
 Use Any NPC item
@@ -1081,6 +1121,7 @@ Thieving Mod for IWDEE
 [COLOR=MediumTurquoise]12/09/2020 [B]Quest Pack[/B] (par deratiseur)[/COLOR]
 [COLOR=Lime]??/??/???? Mise à jour de [B]Anthology Tweak[/B] (par Isaya, Freddy_Gwendo et jazira) (Entre les mains du concepteur)[/COLOR]
 [COLOR=Lime]??/??/???? [B]Alora NPC[/B] (par tonton-thon, Freddy_Gwendo et jazira) (En Beta-test)[/COLOR]
+[COLOR=Lime]??/??/???? Mise à jour de [B]Unfinished Business[/B] (par Jazira) (Entre les mains du concepteur)[/COLOR]
 
 
 
