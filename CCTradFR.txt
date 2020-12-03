@@ -39,7 +39,7 @@ Je laisse la possibilité à quiconque le souhaite d'apporter des modifications 
 [U][B]Modules de quêtes - aventures nouvelles et modifications des quêtes existantes :[/B][/U]
 
 [COLOR=Lime][B]Ascalons Questpack [/B] [BG2, BGT, Tutu, BGEE, BG2EE, EET] (par deratiseur)[/COLOR] [url=https://github.com/Gitjas/AC_QUEST/releases/]Lien[/url]
-[COLOR=MediumTurquoise][B]BG Mini Quests and Encounters [/B][BG1, BGT, Tutu, BGEE, EET] (par Le Marquis et jazira)[/COLOR] [url=https://github.com/Gibberlings3/BG_Quests_And_Encounters/releases]Lien[/url]
+[COLOR="#FF0000"][B]BG Mini Quests and Encounters [/B][BG1, BGT, Tutu, BGEE, EET] (par Le Marquis et jazira)(Nécessite une mise à jour de la traduction[/COLOR] / [COLOR=Lime]en cours par jazira)[/COLOR] [url=https://github.com/Gibberlings3/BG_Quests_And_Encounters/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]BG1 Unfinished Business [/B][BG1, BGT, Tutu, BGEE, EET] (par IronFistedGiant, ForeverDream et Isaya)[/COLOR] [url=https://github.com/Pocket-Plane-Group/bg1ub/releases/]Lien[/url]
 [COLOR=MediumTurquoise][B]Dark Horizons [/B][BG1, BGT, Tutu, BGEE, EET] (par Sanctifer)[/COLOR] [url=http://www.baldursgatemods.com/forums/index.php?PHPSESSID=c081241853941e2f9b832282a3994726&topic=4828.0]Lien[/url]
 [COLOR=MediumTurquoise][B]Dark Side of the Sword Coast[/B] [BG1, BGT, Tutu, BGEE, EET] (par Isaya et Mornagest)[/COLOR] [url=http://www.baldursgatemods.com/forums/index.php?topic=449.0]Lien BG1[/url] / [url=http://www.baldursgatemods.com/forums/index.php?topic=8255.0]Lien Tutu-BGEE[/url] / [url=https://github.com/SpellholdStudios/DSotSC/releases]Lien BGT-EET[/url]
@@ -1126,6 +1126,7 @@ Thieving Mod for IWDEE
 [COLOR=Lime]??/??/???? [B]Alora NPC[/B] (par tonton-thon, Freddy_Gwendo et jazira) (En Beta-test)[/COLOR]
 [COLOR=Lime]??/??/???? Mise à jour de [B]Unfinished Business[/B] (par Jazira) (Entre les mains du concepteur)[/COLOR]
 [COLOR=Lime]??/??/???? Mise à jour de [B]Sword Coast Stratagems[/B] (par Jazira) (Entre les mains du concepteur)[/COLOR]
+[COLOR=Lime]??/??/???? Mise à jour de [B]BG Mini Quests and Encounters[/B] (par jazira) (Entre les mains du concepteur)[/COLOR]
 
 
 
@@ -1140,5 +1141,6 @@ Thieving Mod for IWDEE
 [COLOR=Lime]07/08/2020 : traduction de [B]Endless BG1[/B] débutée (par Freddy_Gwendo)[/COLOR]
 [COLOR=Lime]19/08/2020 : traduction de [B]Ascalons Questpack[/B] (par deratiseur) [/COLOR]
 [COLOR=Lime]19/08/2020 : traduction de [B]The Sellswords[/B] (par deratiseur) [/COLOR]
+[COLOR=Lime]03/12/2020 : traduction de [B]Brage Redemption[/B] (par jazira) [/COLOR]
 
 Cela vous dérange que votre nom soit cité lors d'une traduction ? N'hésitez pas à me le faire savoir par MP, votre droit à l'anonymat sera respecté.
