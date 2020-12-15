@@ -38,7 +38,7 @@ Je laisse la possibilité à quiconque le souhaite d'apporter des modifications 
 
 [U][B]Modules de quêtes - aventures nouvelles et modifications des quêtes existantes :[/B][/U]
 
-[COLOR=Lime][B]Ascalons Questpack [/B] [BG2, BGT, Tutu, BGEE, BG2EE, EET] (par deratiseur)[/COLOR] [url=https://github.com/Gitjas/AC_QUEST/releases/]Lien[/url]
+[COLOR=Lime][B]Ascalons Questpack [/B] [BG2, BGT, Tutu, BGEE, BG2EE, EET] (par deratiseur et Mornagest)[/COLOR] [url=https://github.com/Gitjas/AC_QUEST/releases/]Lien[/url]
 [COLOR="#FF0000"][B]BG Mini Quests and Encounters [/B][BG1, BGT, Tutu, BGEE, EET] (par Le Marquis et jazira)(Nécessite une mise à jour de la traduction[/COLOR] / [COLOR=Lime]en cours par jazira)[/COLOR] [url=https://github.com/Gibberlings3/BG_Quests_And_Encounters/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]BG1 Unfinished Business [/B][BG1, BGT, Tutu, BGEE, EET] (par IronFistedGiant, ForeverDream et Isaya)[/COLOR] [url=https://github.com/Pocket-Plane-Group/bg1ub/releases/]Lien[/url]
 [COLOR=MediumTurquoise][B]Dark Horizons [/B][BG1, BGT, Tutu, BGEE, EET] (par Sanctifer)[/COLOR] [url=http://www.baldursgatemods.com/forums/index.php?PHPSESSID=c081241853941e2f9b832282a3994726&topic=4828.0]Lien[/url]
@@ -236,6 +236,7 @@ TWM (beta - polonais)
 [COLOR="#FF0000"][B]Ascension [/B][BG2, BGT, BG2EE, EET] (par Ly Meng) (Nécessite une mise à jour de la traduction)[/COLOR] [url=https://github.com/InfinityMods/Ascension/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Assassinations [/B][BG2, BGT, BG2EE, EET] (par Le Marquis)[/COLOR] [url=https://github.com/Pocket-Plane-Group/Assassinations/releases/]Lien[/url]
 [COLOR=MediumTurquoise][B]Au service d'Oghma [/B][BG2, BGT, BG2EE, EET] (français, par Thot)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/la-zone-de-telechargement/24078-mods-crees-Quete-au-service-d-oghma-v1-7-a.html]Lien[/url] / [url=https://www.dropbox.com/s/vrplwuj5gz0cahu/ThOghma_v1.8.zip?dl=1]Lien EET[/url]
+[COLOR=Lime][B]Back to Brynnlaw [/B][BG2, BGT, BG2EE, EET] (par deratiseur et Mornagest)[/COLOR] [url=https://github.com/Pocket-Plane-Group/Back_to_Brynnlaw/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Check the Bodies [/B][BG2, BGT, BG2EE, EET] (par Morkhan, La Voix 2 la Sagesse et Asa)[/COLOR] [url=http://www.shsforums.net/files/file/58-check-the-bodies/]Lien[/url]
 [COLOR=MediumTurquoise][B]CoM Encounters [/B][BG2, BGT, BG2EE] (par Thot)[/COLOR] [url=http://www.baldursgatemods.com/forums/index.php?topic=5.0]Lien[/url]
 [COLOR=MediumTurquoise][B]Eilistraee's Song [/B][BG2, BGT, BG2EE, EET] (par Lothringen)[/COLOR] [url=https://www.weaselmods.net/showthread.php?tid=27]Lien[/url]
@@ -258,7 +259,7 @@ TWM (beta - polonais)
 [COLOR=MediumTurquoise][B]The Darkest Day [/B][BG2, BGT, BG2EE, EET] (par Isaya, PapaOlive et Krull)[/COLOR] [url=http://www.shsforums.net/files/file/323-the-darkest-day-v114/]Lien[/url] / [url=https://github.com/InfinityMods/TDDz/releases]Lien BG2EE-EET[/url]
 [COLOR=MediumTurquoise][B]The Minautor and Lilarcor [/B][BG2, BGT, BG2EE, EET] (par Le Marquis)[/COLOR] [url=http://www.shsforums.net/files/file/818-the-minotaur-and-lilacor/]Lien[/url]
 [COLOR=MediumTurquoise][B]The Ooze Lounge [/B][BG2, BGT, BG2EE, EET] (par deratiseur et Mornagest)[/COLOR] [url=https://www.weaselmods.net/showthread.php?tid=24]Lien[/url]
-[COLOR=Lime][B]The Sellswords [/B][BG2, BGT, BG2EE, EET] (par deratiseur) [/COLOR] [url=https://github.com/Pocket-Plane-Group/Sellswords/releases]Lien[/url]
+[COLOR=Lime][B]The Sellswords [/B][BG2, BGT, BG2EE, EET] (par deratiseur et Mornagest)[/COLOR] [url=https://github.com/Pocket-Plane-Group/Sellswords/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]The Slithering Menace [/B][BG2, BGT, BG2EE, EET] (par La Voix 2 la Sagesse)[/COLOR] [url=https://github.com/GwendolyneFreddy/TheSlitheringMenace/releases]Lien[/url] 
 [COLOR=MediumTurquoise][B]The Tortured Soul Quest [/B][BG2, BGT] (par Fouinto)[/COLOR] [url=http://www.shsforums.net/files/file/149-the-tortured-soul-quest/]Lien[/url] 
 [COLOR=MediumTurquoise][B]The White Queen [/B][BG2, BGT, BG2EE, EET] (par Lothringen)[/COLOR] [url=https://www.weaselmods.net/showthread.php?tid=26]Lien[/url]
@@ -529,7 +530,6 @@ Voices of faerun
 
 Ajoc's MiniMod
 Arena
-Back to Brynnlaw
 Dungeon Crawl
 Expanded Mage Strongold
 Expanded Thief Stronghold
@@ -1139,8 +1139,9 @@ Thieving Mod for IWDEE
 [COLOR=Lime]25/04/2020 : traduction de [B]Kelsey[/B] débutée (par Galathée)[/COLOR]
 [COLOR=Lime]24/05/2020 : traduction de [B]Alora NPC[/B] débutée (par tonton-thon, Freddy_Gwendo et jazira)[/COLOR]
 [COLOR=Lime]07/08/2020 : traduction de [B]Endless BG1[/B] débutée (par Freddy_Gwendo)[/COLOR]
-[COLOR=Lime]19/08/2020 : traduction de [B]Ascalons Questpack[/B] (par deratiseur) [/COLOR]
-[COLOR=Lime]19/08/2020 : traduction de [B]The Sellswords[/B] (par deratiseur) [/COLOR]
+[COLOR=Lime]19/08/2020 : traduction de [B]Ascalons Questpack[/B] (par deratiseur et Mornagest) [/COLOR]
+[COLOR=Lime]19/08/2020 : traduction de [B]The Sellswords[/B] (par deratiseur et Mornagest) [/COLOR]
 [COLOR=Lime]03/12/2020 : traduction de [B]Brage Redemption[/B] (par jazira) [/COLOR]
+[COLOR=Lime]14/12/2020 : traduction de [B]Back to Brynnlaw[/B] (par deratiseur et Mornagest) [/COLOR]
 
 Cela vous dérange que votre nom soit cité lors d'une traduction ? N'hésitez pas à me le faire savoir par MP, votre droit à l'anonymat sera respecté.
