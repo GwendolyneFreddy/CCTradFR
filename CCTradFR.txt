@@ -1,4 +1,4 @@
-Voici la liste des mods des sagas Baldurs Gate et Icewind Dale disponibles en français ou en cours de traduction.
+Voici la liste des mods des sagas Baldurs Gate, Icewind Dale et Planescape: Torment disponibles en français ou en cours de traduction.
 
 Afin qu'elle soit la plus précise possible, n'hésitez pas à indiquer si de nouvelles traductions sont en cours, sont nouvellement achevées ou sont provisoirement mises de côté (avec la possibilité ou non pour un autre traducteur de les reprendre à son compte).
 N'hésitez pas également à signaler tout problème, tout lien mort ou plus récent, confirmer de nouvelle compatibilité, ou tout simplement la sortie de nouveaux mods, même non-traduits.
@@ -12,7 +12,7 @@ Je laisse la possibilité à quiconque le souhaite d'apporter des modifications 
 [COLOR=Lime][B]Vert :[/B][/COLOR] En cours
 [COLOR="#FF0000"][B]Rouge :[/B][/COLOR] Traduit, mais nécessite une mise à jour ou une "traification"
 
-[U][B]Compatibilité :[/B][/U]
+[U][B]Compatibilités :[/B][/U]
 
 [BG1] : Baldur's Gate 1, Baldur's Gate 1 : Tales Of the Sword Coast
 [BG2] : Baldur's Gate 2 : Shadow of Amn, Baldur's Gate 2 : Throne of Bhaal
@@ -24,6 +24,8 @@ Je laisse la possibilité à quiconque le souhaite d'apporter des modifications 
 [IWD1] : Icewind Dale 1, Icewind Dale 1 : Heart of Winter, Icewind Dale 1 : Trials of the Luremaster
 [IWD2] : Icewind Dale 2
 [IWDEE] : Icewind Dale : Enhanced Edition
+[PST] : Planescape: Torment
+[PST:EE] : Planescape: Torment : Enhanced Edition
 
 [SIZE=1]Les compatibilités listées sont non-exhaustives, ces informations sont receuillies dans les Readme, les Changelog, etc... Ce n'est pas parcequ'un mod n'est pas listé comme compatible BGT, par exemple, qu'il ne l'est pas. Nombres de Readme ne sont plus à jours ou n'existent tout simplement pas...[/SIZE]
 [SIZE=1]Les liens listés ne pointent pas toujours vers les versions les plus récentes des mods, mais aux versions les plus récentes [U]comportant une traduction française[/U] des mods.[/SIZE]
@@ -119,7 +121,23 @@ Je laisse la possibilité à quiconque le souhaite d'apporter des modifications 
 [U][B]Non traduits :[/B][/U]
 
 [SPOILER]
-[U][B]Modules de quêtes - aventures nouvelles et modifications des quêtes existantes :[/B][/U]
+[U][B]Traductions et corrections :[/B][/U]
+
+-
+
+[U][B]Conversions du moteur :[/B][/U]
+
+-
+
+[U][B]Conversions totales ou partielles :[/B][/U]
+
+-
+
+[U][B]Modifications graphiques ou sonores :[/B][/U]
+
+-
+
+[U][B]Modules de quêtes, nouvelles aventures et modifications des quêtes existantes :[/B][/U]
 
 [B]Balduran's Seatower [/B][BGT, BGEE, EET] [url=https://github.com/Gibberlings3/BS_Baldurans_Seatower/releases]Lien[/url] 
 [B]Balduran's Seatower (Version piratée !!!)[/B][BGEE, EET] (Pour des raisons d'éthique je recommande de ne pas traduire ce mod.) [url=https://baldursextendedworld.com/Baldurans-Sea-Tower/]Lien (Version non-officielle)[/url] 
@@ -130,7 +148,43 @@ Je laisse la possibilité à quiconque le souhaite d'apporter des modifications 
 [B]Northern Tales of the Sword Coast [/B][BGT, BGEE, EET] [url=https://github.com/SpellholdStudios/NTotSC/releases]Lien[/url]
 [B]Shades of the Sword Coast [/B][BGEE] [url=https://downloads.weaselmods.net/download/shades-of-the-sword-coast/]Lien[/url] 
 
-[U][B]Kits, magasins, modification sonores et graphiques, des règles et du gameplay :[/B][/U]
+[U][B]Challenges tactiques :[/B][/U]
+
+-
+
+[U][B]Mods délires :[/B][/U]
+
+-
+
+[U][B]NPCs et Romances :[/B][/U]
+
+Ascalons Breagar NPC (Allemand)
+Aura, a gnome artificer NPC for BG:EE + SoD
+Coran's BG Extended Friendship Talks [BGT, Tutu]
+Delainy/Durlyle Same-Sex Romance Options
+Drake NPC for BG:EE and SoD
+Drizzt Is Not Stupid [Tutu]
+Emily, a Half-Elf* Archer for BG:EE + SoD
+Garrick's Infatuation [BGT, Tutu, BGEE]
+Grey the Dog
+Helga
+Ishlilka the Wizard Slayer for BG1 + SOD
+Isra NPC [BGT, Tutu, BGEE]
+Kale, a Halfling Barbarian for BG:EE + SoD
+Mulgore and Xavia NPCs [BGT, Tutu]
+Neera Banter
+Neera Expansion [BGEE]
+Recorder
+Sirene, a tiefling paladin of Ilmater NPC for BG:EE and SoD
+Shar-Teel NPC mod (SoD)
+Valerie NPC [BGT, Tutu, BGEE]
+Verr'Sza NPC [BGEE]
+Vienxay, a Elven Shadowdancer Mage NPC for BG:EE + SoD
+Vynd [BGT, Tutu, BGEE]
+White NPC [BGT, Tutu, BGEE]
+Zakrion
+
+[U][B]Modification des Règles et du Gameplay :[/B][/U]
 
 [B]A Few Less Master Areas[/B] [BG1?, BGEE?] [url=https://www.gibberlings3.net/forums/topic/31674-a-few-less-master-areas-mod-for-bg1/]Lien[/url] // Probablement pas besoin de traduction
 [B]BG1 Tweak Pack[/B] [BG1, BGT, Tutu] [url=http://www.baldursgatemods.com/forums/index.php?topic=4616.0]Lien[/url] //Probablement pas besoin de traduction
@@ -183,33 +237,13 @@ Wand Case
 Will of the Wisps [BGEE, BG2EE]
 Xan's New Groove!
 
-[U][B]NPCs et Romances :[/B][/U]
+[U][B]Ajouts de Sorts, de Magasins et d'Objets :[/B][/U]
 
-Ascalons Breagar NPC (Allemand)
-Aura, a gnome artificer NPC for BG:EE + SoD
-Coran's BG Extended Friendship Talks [BGT, Tutu]
-Delainy/Durlyle Same-Sex Romance Options
-Drake NPC for BG:EE and SoD
-Drizzt Is Not Stupid [Tutu]
-Emily, a Half-Elf* Archer for BG:EE + SoD
-Garrick's Infatuation [BGT, Tutu, BGEE]
-Grey the Dog
-Helga
-Ishlilka the Wizard Slayer for BG1 + SOD
-Isra NPC [BGT, Tutu, BGEE]
-Kale, a Halfling Barbarian for BG:EE + SoD
-Mulgore and Xavia NPCs [BGT, Tutu]
-Neera Banter
-Neera Expansion [BGEE]
-Recorder
-Sirene, a tiefling paladin of Ilmater NPC for BG:EE and SoD
-Shar-Teel NPC mod (SoD)
-Valerie NPC [BGT, Tutu, BGEE]
-Verr'Sza NPC [BGEE]
-Vienxay, a Elven Shadowdancer Mage NPC for BG:EE + SoD
-Vynd [BGT, Tutu, BGEE]
-White NPC [BGT, Tutu, BGEE]
-Zakrion
+-
+
+[U][B]Nouveaux kits :[/B][/U]
+
+-
 [/SPOILER]
 
 [U][B]Mods dans une langue autre que l'anglais :[/B][/U]
@@ -223,7 +257,7 @@ TWM (beta - polonais)
 
 
 
-[SIZE=4][COLOR=DarkRed][B]Baldur's Gate 2 (Shadows of Amn et/ou Throne of Bhaal), Baldur's Gate 2 : Enhanced Edition :[/B][/COLOR][/SIZE]
+[SIZE=4][COLOR=DarkRed][B]Baldur's Gate 2 (Shadows of Amn et/ou Throne of Bhaal) et Baldur's Gate 2 : Enhanced Edition :[/B][/COLOR][/SIZE]
 
 [U][B]Traductions et corrections :[/B][/U]
 
@@ -490,6 +524,10 @@ TWM (beta - polonais)
 [U][B]Non traduits :[/B][/U]
 
 [SPOILER]
+[U][B]Traductions et corrections :[/B][/U]
+
+-
+
 [U][B]Conversions du moteur :[/B][/U]
 
 EasyTutu
@@ -553,7 +591,7 @@ Unhide Chargen Options
 Unlimited Pixel Works
 Voices of faerun
 
-[U][B]Modules de quêtes - aventures nouvelles et modifications des quêtes existantes :[/B][/U]
+[U][B]Modules de quêtes, nouvelles aventures et modifications des quêtes existantes :[/B][/U]
 
 Ajoc's MiniMod
 Arena
@@ -1088,21 +1126,29 @@ Yeslick (allemand)
 [U][B]Non traduits :[/B][/U]
 
 [SPOILER]
+[U][B]Traductions et corrections :[/B][/U]
+
+-
+
 [U][B]Conversions du moteur :[/B][/U]
 
 Icewind Gate II - beta
 
-[U][B]Modules de quêtes - aventures nouvelles et modifications des quêtes existantes :[/B][/U]
+[U][B]Modifications graphiques ou sonores :[/B][/U]
+
+-
+
+[U][B]Modules de quêtes, nouvelles aventures et modifications des quêtes existantes :[/B][/U]
 
 Terror of the Skineater
 
-[U][B]Modification des Règles et du Gameplay :[/B][/U]
+[U][B]Challenges tactiques :[/B][/U]
 
-Cleric domains
-Ease-of-Use
-IceWind Dale Improvements
-Subraces pack
-Tactics4IWD2
+-
+
+[B][U]Mods délires[/U]
+
+-
 
 [U][B]NPCs et Romances :[/B][/U]
 
@@ -1120,7 +1166,15 @@ Tipps
 Turald NPC Mod
 Urchin
 
-[U][B]Kits, magasins et modification graphiques, des règles et du gameplay :[/B][/U]
+[U][B]Modification des Règles et du Gameplay :[/B][/U]
+
+Cleric domains
+Ease-of-Use
+IceWind Dale Improvements
+Subraces pack
+Tactics4IWD2
+
+[U][B]Ajouts de Sorts, de Magasins et d'Objets :[/B][/U]
 
 A Frosty Journey: The IWDEE Kitpack
 Add Morningstar of Action +4 to random treasure list
@@ -1133,8 +1187,111 @@ No restrictions
 Runescarred Berserker
 Stronger Creatures - Simple Difficulty Mod
 Thieving Mod for IWDEE
+
+[U][B]Nouveaux kits :[/B][/U]
+
+- 
 [/SPOILER]
 
+[U][B]Mods dans une langue autre que l'anglais :[/B][/U]
+
+[SPOILER]
+-
+[/SPOILER]
+
+
+
+[SIZE=4][COLOR=DarkRed][B]Planescape: Torment et Planescape: Torment : Enhanced Edition :[/B][/COLOR][/SIZE]
+
+[U][B]Traductions et corrections :[/B][/U]
+
+[COLOR=MediumTurquoise][B]Patch de correction des erreurs de la version française de Planescape: Torment [/B][PST, PST:EE] (français, par mirandir)[/COLOR] [url=http://mirandir.baldursgateworld.fr/pst-correcfr/]Lien[/url]
+
+[U][B]Conversions du moteur :[/B][/U]
+
+-
+
+[U][B]Modifications graphiques ou sonores :[/B][/U]
+
+-
+
+[U][B]Modules de quêtes, nouvelles aventures et modifications des quêtes existantes :[/B][/U]
+
+-
+
+[U][B]Challenges tactiques :[/B][/U]
+
+-
+
+[B][U]Mods délires[/U]
+
+-
+
+[U][B]NPCs et Romances :[/B][/U]
+
+-
+
+[U][B]Modification des Règles et du Gameplay :[/B][/U]
+
+-
+
+[U][B]Ajouts de Sorts, de Magasins et d'Objets :[/B][/U]
+
+-
+
+[U][B]Nouveaux kits :[/B][/U]
+
+- 
+
+[U][B]Non traduits :[/B][/U]
+
+[SPOILER]
+[U][B]Traductions et corrections :[/B][/U]
+
+-
+
+[U][B]Conversions du moteur :[/B][/U]
+
+-
+
+[U][B]Modifications graphiques ou sonores :[/B][/U]
+
+-
+
+[U][B]Modules de quêtes, nouvelles aventures et modifications des quêtes existantes :[/B][/U]
+
+-
+
+[U][B]Challenges tactiques :[/B][/U]
+
+-
+
+[B][U]Mods délires[/U]
+
+-
+
+[U][B]NPCs et Romances :[/B][/U]
+
+-
+
+[U][B]Modification des Règles et du Gameplay :[/B][/U]
+
+-
+
+[U][B]Ajouts de Sorts, de Magasins et d'Objets :[/B][/U]
+
+-
+
+[U][B]Nouveaux kits :[/B][/U]
+
+- 
+[/SPOILER]
+
+[U][B]Mods dans une langue autre que l'anglais :[/B][/U]
+
+[SPOILER]
+-
+[/SPOILER]
 
 
 [SIZE=4][COLOR=DarkRed][B]Sorties des nouvelles traductions / mises à jour :[/B][/COLOR][/SIZE]
@@ -1211,7 +1368,14 @@ De même, si votre nom n'est pas mentionné lors d'une traduction/relecture, n'h
 [SIZE=1]Ne pas cliquer ici ![/SIZE]
 [SPOILER]
 Cette section est juste un pense-bête, passez votre chemin. Saviez-vous que la curiosité est un [S]vilain[/S] bon défaut, petite canaille ?
-// https://www.pocketplane.net/iron-modder-competition/ Déjà intégrer iron modder tutu
-// https://modlist.pocketplane.net/index.php
-// http://www.forgottenwars.com/dudleyfix/bg1_tweaks.htm
+TODO
+- The Drizzt Saga (BG1) : Confirmer v3 même pour BG1
+- Planescape : Torment : Traquer compatibilité des mods déjà présent dans les autres jeux
+- Planescape : Torment : Intégrer liste de mod + Compatibilité + Lien
+- Mods non-traduits : "Relister" dans les bonnes catégories les mods BG1 & IWD (BG2 OK)
+- Mods non-traduits : Intégrer les compatibilités + Lien
+- Intégrer les liens suivants dans les listes de mods non-traduits :
+https://www.pocketplane.net/iron-modder-competition/ //Déjà intégrer iron modder tutu
+https://modlist.pocketplane.net/index.php
+http://www.forgottenwars.com/dudleyfix/bg1_tweaks.htm
 [/SPOILER]
