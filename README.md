@@ -1,4 +1,4 @@
-# État de traduction des mods infinity Engine en français
+# État de traduction des mods Infinity Engine en français
 Translation status of the Infinity Engine mods in French
 
 Liste des mods traduits en français pour les sagas Baldur's Gate, Icewind Dale et Planescape: Torment.
