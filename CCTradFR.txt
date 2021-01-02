@@ -32,7 +32,7 @@ Je laisse la possibilité à quiconque le souhaite d'apporter des modifications 
 
 
 
-[SIZE=4][COLOR=DarkRed][B]Baldur's Gate 1, Baldur's Gate : Enhanced Edition et Baldur's Gate : Siege of Dragonspear :[/B][/COLOR][/SIZE]
+[SIZE=4][COLOR=DarkRed][B]Baldur's Gate 1 (et Tales Of the Sword Coast), Baldur's Gate : Enhanced Edition et Baldur's Gate : Siege of Dragonspear :[/B][/COLOR][/SIZE]
 
 [U][B]Mods traduits en français:[/B][/U]
 
@@ -248,16 +248,15 @@ Xan's New Groove!
 [U][B]Nouveaux kits :[/B][/U]
 
 -
-[/SPOILER]
 
 [U][B]Mods dans une langue autre que l'anglais :[/B][/U]
 
-[SPOILER]
 Casanova (espagnol)
 BG1 Regelmod (allemand)
 Knights (allemand)
 TWM (beta - polonais)
 [/SPOILER]
+
 
 
 
@@ -1030,11 +1029,9 @@ Will to Power- a 2E-inspired psionics system for the Infinity Engine
 Witcher kit pack
 Wizard Slayer Overhaul
 Wolf Lord: Shapeshifter Upgrade
-[/SPOILER]
 
 [U][B]Mods dans une langue autre que l'anglais :[/B][/U]
 
-[SPOILER]
 Avi Maya Project (polonais)
 CHARLI (espagnol)
 Chiara (allemand)
@@ -1069,6 +1066,7 @@ Vendedor DLAN (espagnol)
 Wladca Zywiolow (polonais)
 Yeslick (allemand)
 [/SPOILER]
+
 
  
  
@@ -1203,11 +1201,9 @@ Thieving Mod for IWDEE
 [U][B]Nouveaux kits :[/B][/U]
 
 - 
-[/SPOILER]
 
 [U][B]Mods dans une langue autre que l'anglais :[/B][/U]
 
-[SPOILER]
 -
 [/SPOILER]
 
@@ -1301,11 +1297,9 @@ Thieving Mod for IWDEE
 [U][B]Nouveaux kits :[/B][/U]
 
 - 
-[/SPOILER]
 
 [U][B]Mods dans une langue autre que l'anglais :[/B][/U]
 
-[SPOILER]
 -
 [/SPOILER]
 
@@ -1395,4 +1389,5 @@ TODO
 https://www.pocketplane.net/iron-modder-competition/ //Déjà intégrer iron modder tutu
 https://modlist.pocketplane.net/index.php
 http://www.forgottenwars.com/dudleyfix/bg1_tweaks.htm
+- Ambitious man : Une liste pour les supplanter toutes !
 [/SPOILER]
