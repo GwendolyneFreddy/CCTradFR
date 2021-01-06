@@ -162,6 +162,7 @@ Je laisse la possibilité à quiconque le souhaite d'apporter des modifications 
 
 [U][B]NPCs et Romances :[/B][/U]
 
+Aerie in BG:EE
 Ascalons Breagar NPC (Allemand)
 Aura, a gnome artificer NPC for BG:EE + SoD
 Coran's BG Extended Friendship Talks [BGT, Tutu]
@@ -181,6 +182,7 @@ Neera Expansion [BGEE]
 Recorder
 Sirene, a tiefling paladin of Ilmater NPC for BG:EE and SoD
 Shar-Teel NPC mod (SoD)
+Tenya Thermidor
 Valerie NPC [BGT, Tutu, BGEE]
 Verr'Sza NPC [BGEE]
 Vienxay, a Elven Shadowdancer Mage NPC for BG:EE + SoD
@@ -195,8 +197,8 @@ Zakrion
 [B]BG2:EE Antique Amber GUI[/B] [BGEE?, BG2EE] // a été supprimer par son auteur, pas de lien
 [B]BG2:EE GUI In BG:EE[/B] [BGEE (1.3)] [url=http://www.shsforums.net/files/file/1082-bg2ee-gui-in-bgee/]Lien[/url] //Probablement pas besoin de traduction
 [B]BG2:EE GUI To BGEE[/B] [BGEE (2.3)] [url=https://forums.beamdog.com/discussion/55094/mod-bg2ee-gui-to-bgee]Lien[/url] //Probablement pas besoin de traduction
-BG:EE Kitpack 
-NPC Bodies
+[B]BG:EE Kitpack [/B] [BGEE (1.3)] [url=http://www.shsforums.net/files/file/1026-bgee-kitpack/]Lien[/url]
+[B]NPC Bodies [/B] [BGEE, BG2EE, EET] [url=https://forums.beamdog.com/discussion/61786/npc-bodies-a-raise-dead-resurrection-mod]Lien BGEE[/url] / [url=https://github.com/Transflux24/NPC-Bodies]Lien BGEE-BG2EE-EET (Broken ?)[/url] 
 Back to Baldur's Gate
 Barbed Club of Pain
 Continous Viconia Appearance for BG1EE, BG2EE, SOD and EET
@@ -299,7 +301,7 @@ TWM (beta - polonais)
 
 [COLOR=MediumTurquoise][B]Adalon's Blood [/B][BG2, BGT, BG2EE, EET] (par Le Marquis)[/COLOR] [url=https://www.baldurs-gate.de/index.php?resources/adalons-blood-silberdrachenblutmod.5/]Lien[/url]
 [COLOR=MediumTurquoise][B]Almateria Restauration Project [/B][BG2, BGT, BG2EE, EET] (par Isaya)[/COLOR] [url=http://www.shsforums.net/files/file/1053-almaterias-restoration-project/]Lien[/url]
-[COLOR=MediumTurquoise][B]Alternatives [/B][BG2, BGT, BG2EE, EET] (par Galathée et jazira)[/COLOR] [url=https://github.com/Gibberlings3/Alternatives/releases]Lien[/url]
+[COLOR=MediumTurquoise][B]Alternatives [/B][BG2, BGT, BG2EE, EET] (par Galathée, Freddy_Gwendo et jazira)[/COLOR] [url=https://github.com/Gibberlings3/Alternatives/releases]Lien[/url]
 [COLOR="#FF0000"][B]Ascension [/B][BG2, BGT, BG2EE, EET] (par Ly Meng) (Nécessite une mise à jour de la traduction)[/COLOR] [url=https://github.com/InfinityMods/Ascension/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Assassinations [/B][BG2, BGT, BG2EE, EET] (par Le Marquis)[/COLOR] [url=https://github.com/Pocket-Plane-Group/Assassinations/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Au service d'Oghma [/B][BG2, BGT, BG2EE, EET] (français, par Thot)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/la-zone-de-telechargement/24078-mods-crees-Quete-au-service-d-oghma-v1-7-a.html]Lien[/url] / [url=https://www.dropbox.com/s/vrplwuj5gz0cahu/ThOghma_v1.8.zip?dl=1]Lien EET[/url]
@@ -332,7 +334,7 @@ TWM (beta - polonais)
 [COLOR=MediumTurquoise][B]The White Queen [/B][BG2, BGT, BG2EE, EET] (par Lothringen)[/COLOR] [url=https://www.weaselmods.net/showthread.php?tid=26]Lien[/url]
 [COLOR=MediumTurquoise][B]Tower of Deception [/B][BG2, BGT, BG2EE, EET] (par Le Marquis)[/COLOR] [url=https://github.com/InfinityMods/TowerOfDeception/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Trials of the Luremaster for BG2:EE [/B][BG2EE, EET] (par Freddy_Gwendo)[/COLOR] [url=https://github.com/Argent77/A7-TotLM-BG2EE/releases]Lien[/url]
-[COLOR="#FF0000"][B]Unfinished Business [/B][BG2, BGT, BG2EE, EET] (par Nicholas D. Wolfwood et les d'Oghmatiques)(Nécessite une mise à jour de la traduction[/COLOR] / [COLOR=Lime]en cours par jazira)[/COLOR] [url=https://github.com/Pocket-Plane-Group/UnfinishedBusiness/releases]Lien[/url]
+[COLOR=MediumTurquoise][B]Unfinished Business [/B][BG2, BGT, BG2EE, EET] (par Nicholas D. Wolfwood, Graoumf, Mornagest, Daneghar, Severus, Malinconia, DarkWintermoon, Mérillym Martial, Barren, Euler, Elissa Keens, Mathrim Cauthon, Isaya, Le Marquis, Lefreut et jazira)[/COLOR] [url=https://github.com/Pocket-Plane-Group/UnfinishedBusiness/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Wheels of Prophecy [/B][BG2, BGT, BG2EE, EET] (par Mornagest)[/COLOR] [url=https://github.com/Gibberlings3/WheelsOfProphecy/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Zalnoya and the shadow thieves [/B][BG2, BGT] (par Le Marquis)[/COLOR] [url=http://www.shsforums.net/files/file/825-zalnoya-and-the-shadow-thieves/]Lien[/url]
 
@@ -982,6 +984,7 @@ Multiclassed Multikit Builder Mod
 Multikits
 Mystic Fire Paladin Kit
 Ninja
+Oozelord Cleric Kit
 Paladin Kit
 Paladins of Faerun Kitpack [Tutu]
 Pale Master Sorcerer Kit
@@ -1228,7 +1231,7 @@ Thieving Mod for IWDEE
 
 [U][B]Modules de quêtes, nouvelles aventures et modifications des quêtes existantes :[/B][/U]
 
--
+[COLOR=MediumTurquoise][B]PS:T Unfinished Business - Reloaded [/B][PST, PST:EE] (par mirandir et Zyl)[/COLOR] [url=https://github.com/Argent77/PST-UB-reloaded/releases]Lien[/url]
 
 [U][B]Challenges tactiques :[/B][/U]
 
@@ -1352,10 +1355,10 @@ Thieving Mod for IWDEE
 [COLOR=MediumTurquoise]22/11/2020 Mise à jour de [B]The Ooze lounge[/B] (par Mornagest)[/COLOR]
 [COLOR=MediumTurquoise]22/11/2020 Mise à jour de [B]Tangled Oak Isle[/B] (par Mornagest)[/COLOR]
 [COLOR=MediumTurquoise]18/12/2020 Mise à jour de [B]BG Mini Quests and Encounters[/B] (par jazira)[/COLOR]
+[COLOR=MediumTurquoise]05/01/2021 Mise à jour de [B]Unfinished Business[/B] (par jazira)[/COLOR]
 [COLOR=Lime]??/??/???? Mise à jour de [B]Anthology Tweak[/B] (par Isaya, Freddy_Gwendo et jazira) (Entre les mains du concepteur)[/COLOR]
 [COLOR=Lime]??/??/???? [B]Alora NPC[/B] (par tonton-thon, Freddy_Gwendo et jazira) (En Beta-test)[/COLOR]
-[COLOR=Lime]??/??/???? Mise à jour de [B]Unfinished Business[/B] (par Jazira) (Entre les mains du concepteur)[/COLOR]
-[COLOR=Lime]??/??/???? Mise à jour de [B]Sword Coast Stratagems[/B] (par Jazira) (Entre les mains du concepteur)[/COLOR]
+[COLOR=Lime]??/??/???? Mise à jour de [B]Sword Coast Stratagems[/B] (par jazira) (Entre les mains du concepteur)[/COLOR]
 
 
 
