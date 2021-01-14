@@ -24,8 +24,8 @@ Je laisse la possibilité à quiconque le souhaite d'apporter des modifications 
 [IWD1] : Icewind Dale 1, Icewind Dale 1 : Heart of Winter, Icewind Dale 1 : Trials of the Luremaster
 [IWD2] : Icewind Dale 2
 [IWDEE] : Icewind Dale : Enhanced Edition
-[PST] : Planescape: Torment
-[PST:EE] : Planescape: Torment : Enhanced Edition
+[PST] : Planescape : Torment
+[PST:EE] : Planescape : Torment : Enhanced Edition
 
 [SIZE=1]Les compatibilités listées sont non-exhaustives, ces informations sont receuillies dans les Readme, les Changelog, etc... Ce n'est pas parcequ'un mod n'est pas listé comme compatible BGT, par exemple, qu'il ne l'est pas. Nombres de Readme ne sont plus à jours ou n'existent tout simplement pas...[/SIZE]
 [SIZE=1]Les liens listés ne pointent pas toujours vers les versions les plus récentes des mods, mais aux versions les plus récentes [U]comportant une traduction française[/U] des mods.[/SIZE]
@@ -275,7 +275,7 @@ TWM (beta - polonais)
 [U][B]Conversions du moteur :[/B][/U]
 
 [COLOR=MediumTurquoise][B]Baldur's Gate Trilogy [/B][BGT] (par Anomaly)[/COLOR] [url=https://github.com/SpellholdStudios/BGT-WeiDU/releases]Lien[/url]
-[COLOR=MediumTurquoise][B]Enhanced Edition Trilogy [/B][EET] (par Isaya et Chevalier Noir)[/COLOR] [COLOR="#FF0000"](Partiellement traduit, SoD en anglais)[/COLOR] [url=https://github.com/K4thos/EET/releases]Lien[/url]
+[COLOR=MediumTurquoise][B]Enhanced Edition Trilogy [/B][EET] (par Isaya et Chevalier Noir)[/COLOR] [COLOR="#FF0000"](Partiellement traduit, SoD en anglais, relecture requise)[/COLOR] [url=https://github.com/K4thos/EET/releases]Lien[/url]
 
 [U][B]Conversions totales ou partielles :[/B][/U]
 
@@ -405,7 +405,7 @@ TWM (beta - polonais)
 [COLOR=MediumTurquoise][B]Tiax for BG2 (One-Day NPC) [/B][BG2, BGT, BG2EE, EET] (par Eleima)[/COLOR] [url=https://github.com/Pocket-Plane-Group/Tiax_for_BGII/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Totemic Cernd [/B][BG2, BGT] (par Isaya)[/COLOR] [url=hhttps://github.com/Gibberlings3/Totemic_Cernd/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Tsujatha Melalor [/B][BG2, BGT, BG2EE] (par La Voix 2 la Sagesse, Egrevyn et DarkWintermoon)[/COLOR] [url=http://www.baldursgatemods.com/forums/index.php?PHPSESSID=46e9b11906c4c2d9e4e4a6334bb517e1&topic=4801.0]Lien[/url]
-[COLOR=MediumTurquoise][B]Valen NPC [/B][BG2, BGT, BG2EE] (par Ly Meng, Laurent Duvernet et Cocobard)[/COLOR]  [url=https://weidu.org/]Lien[/url] / [url=https://github.com/hellmouse/valen/releases]Lien BG2EE[/url]
+[COLOR=MediumTurquoise][B]Valen NPC [/B][BG2, BGT, BG2EE] (par Ly Meng, Laurent Duvernet et Cocobard)[/COLOR] [url=https://weidu.org/]Lien[/url] / [url=https://github.com/hellmouse/valen/releases]Lien BG2EE[/url]
 [COLOR=MediumTurquoise][B]Vampire Tales [/B][BG2, BGT, BG2EE] (par Shaywen et Zooloo)[/COLOR] [url=http://www.baldursgatemods.com/forums/index.php?topic=3912.0]Lien[/url]
 [COLOR=MediumTurquoise][B]Viconia Friendship [/B][BG2, BGT, BG2EE, EET] (par Ixion)[/COLOR] [url=https://github.com/SpellholdStudios/ViconiaFriendship/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Xan for BG2 [/B][BG2, BGT, BG2EE, EET] (par Eleima)[/COLOR] [url=https://github.com/Pocket-Plane-Group/Xan_for_BGII/releases]Lien[/url]
@@ -559,7 +559,7 @@ Aftermotions
 Artaport
 Artastrophe portraits
 Better Quick Loot
-BG1 Voices  for BG2
+BG1 Voices for BG2
 BG2 EE portraits
 Beholder rays
 Bubb's Spell Menu
@@ -574,6 +574,7 @@ Dragon Age Portraits
 Druid Grove makeover
 Elements of Destruction
 Elven Ranger Avatar
+[B]Fontmod [/B][BG2, PST, ?] [url=http://www.shsforums.net/topic/38626-bigger-fonts-for-bgiitob-and-other-ie-games/]Lien[/url]
 Impish Makeover
 Isandir's Portrait Pack
 IWD GUI
@@ -1215,13 +1216,14 @@ Thieving Mod for IWDEE
 
 
 
-[SIZE=4][COLOR=DarkRed][B]Planescape: Torment et Planescape: Torment : Enhanced Edition :[/B][/COLOR][/SIZE]
+[SIZE=4][COLOR=DarkRed][B]Planescape : Torment et Planescape : Torment : Enhanced Edition :[/B][/COLOR][/SIZE]
 
 [U][B]Mods traduits en français:[/B][/U]
 
 [SPOILER]
 [U][B]Traductions et corrections :[/B][/U]
 
+[COLOR=MediumTurquoise][B]Lost Party Members Fix [/B][PST] (pas besoin de traduction)[/COLOR] [url=https://sorcerers.net/Games/Torment/Platter/mods/readmeplost.htm]Lien[/url] 
 [COLOR=MediumTurquoise][B]Patch de correction des erreurs de la version française de Planescape: Torment [/B][PST, PST:EE] (français, par mirandir)[/COLOR] [url=http://mirandir.baldursgateworld.fr/pst-correcfr/]Lien[/url]
 [COLOR=MediumTurquoise][B]PS:T Ultimate WeiDU Fixpack [/B][PST] (par mirandir)[/COLOR] [url=http://www.shsforums.net/files/file/647-pst-ultimate-weidu-fixpack-v413/]Lien (SANS patch correctif des textes FR)[/url] / [url=http://mirandir.baldursgateworld.fr/pst-guide-installation/files/pstfixpack_v413_correctfr.7z]Lien (AVEC patch correctif des textes FR)[/url]
 
@@ -1231,8 +1233,9 @@ Thieving Mod for IWDEE
 
 [U][B]Modifications graphiques ou sonores :[/B][/U]
 
-[COLOR=MediumTurquoise][B]Change TNO animation to Dustman Disguise [/B][PST:EE] (pas besoin de traduction)[/COLOR] [url=https://forums.beamdog.com/discussion/64430/mod-change-tno-animation-to-dustman-disguise/p1]Lien[/url]
+[COLOR=MediumTurquoise][B]Change TNO animation to Dustman Disguise [/B][PST, PST:EE] (pas besoin de traduction)[/COLOR] [url=http://www.manapool.co.uk/wp-content/uploads/2010/10/robe.zip]Lien[/url] / [url=https://forums.beamdog.com/discussion/64430/mod-change-tno-animation-to-dustman-disguise/p1]Lien PST:EE[/url]
 [COLOR=Lime][B]Freely Resizeable Combat Log [/B][PST:EE] (par jazira)[/COLOR] [url=https://github.com/Argent77/A7-ResizeableCombatLog/releases]Lien[/url] 
+[COLOR=MediumTurquoise][B]Font [/B][PST] (pas besoin de traduction)[/COLOR] [url=https://sorcerers.net/Games/dl.php?s=PST&f=Torment/font.zip]Lien[/url]
 [COLOR=MediumTurquoise][B]GhostDog's PS:T UI [/B][PST] (par mirandir)[/COLOR] [url=http://mirandir.baldursgateworld.fr/pst-guide-installation/files/Ghostdogs_PST_UI_mod_v2.2_fr.7z]Lien[/url]
 [COLOR=Lime][B]Level Up Icon Tweaks [/B][PST:EE] (par jazira)[/COLOR] [url=https://github.com/Argent77/A7-LevelUpTweaks/releases]Lien[/url] 
 
@@ -1246,7 +1249,7 @@ Thieving Mod for IWDEE
 
 [B][U]Mods délires :[/B][/U]
 
--
+[COLOR=MediumTurquoise][B]Power Action Leprechaun Annah [/B][PST] (pas besoin de traduction)[/COLOR] [url=https://sorcerers.net/Games/dl.php?s=PST&f=Torment/annah_patty.zip]Lien[/url]
 
 [U][B]NPCs et Romances :[/B][/U]
 
@@ -1255,6 +1258,7 @@ Thieving Mod for IWDEE
 [U][B]Modification des Règles et du Gameplay :[/B][/U]
 
 [COLOR=MediumTurquoise][B]Auto-detect traps for PST:EE [/B][PSTEE] (français, par mirandir)[/COLOR] [url=https://forums.beamdog.com/discussion/65473/mod-auto-detect-traps-for-pstee]Lien[/url]
+[COLOR=MediumTurquoise][B]Cirerrek's AI Scripts: tSeries [/B][PST, PST:EE] (pas besoin de traduction)[/COLOR] [url=https://www.gibberlings3.net/files/file/892-cirerreks-ai-scripts-tseries/]Lien[/url] 
 [COLOR=MediumTurquoise][B]Qwinn's PS:T Tweak Pack [/B][PST] (par mirandir et Zyl)[/COLOR] [url=http://www.shsforums.net/files/file/649-qwinns-pst-tweak-pack-v412/]Lien[/url]
 [COLOR=MediumTurquoise][B]Save Nordom Tweak from Qwinn's Tweakpack updated for PST:EE [/B][PST:EE] (par mirandir et Zyl)[/COLOR] [url=https://github.com/badungu/PST-SaveNordomTweak]Lien[/url]
 
@@ -1272,7 +1276,7 @@ Thieving Mod for IWDEE
 [SPOILER]
 [U][B]Traductions et corrections :[/B][/U]
 
--
+[B]Convert Torment to English [/B][PST] [url=https://sorcerers.net/Games/dl.php?s=PST&f=Torment/english.zip]Lien[/url]
 
 [U][B]Conversions du moteur :[/B][/U]
 
@@ -1292,7 +1296,7 @@ Thieving Mod for IWDEE
 
 [B][U]Mods délires :[/B][/U]
 
--
+[B]The Ultimate Easter Egg (morte) [/B][PST] [url=https://sorcerers.net/Games/dl.php?s=PST&f=Torment/morte_egghead.zip]Lien[/url]
 
 [U][B]NPCs et Romances :[/B][/U]
 
@@ -1300,11 +1304,13 @@ Thieving Mod for IWDEE
  
 [U][B]Modification des Règles et du Gameplay :[/B][/U]
 
--
+[B]Restoration Pack [/B][PST] [url=https://sorcerers.net/Games/dl.php?s=PST&f=Torment/restoration.rar]Lien[/url] 
 
 [U][B]Ajouts de Sorts, de Magasins et d'Objets :[/B][/U]
 
+[B]Armors and robes for PST [/B][PST] [url=https://forum.sigil.cz/viewtopic.php?t=1950]Lien[/url]
 [B]Planar Items [/B][PST:EE] [url=https://github.com/aquadrizzt/PlanarItems/releases]Lien[/url]
+[B]Platter's Armours [/B][PST] [url=https://sorcerers.net/Games/dl.php?s=PST&f=Torment/armor.zip]Lien[/url]
 
 [U][B]Nouveaux kits :[/B][/U]
 
@@ -1368,6 +1374,8 @@ Thieving Mod for IWDEE
 [COLOR=Lime]??/??/???? Mise à jour de [B]Anthology Tweak[/B] (par Isaya, Freddy_Gwendo et jazira) (Entre les mains du concepteur)[/COLOR]
 [COLOR=Lime]??/??/???? [B]Alora NPC[/B] (par tonton-thon, Freddy_Gwendo et jazira) (En Beta-test)[/COLOR]
 [COLOR=Lime]??/??/???? Mise à jour de [B]Sword Coast Stratagems[/B] (par jazira) (Entre les mains du concepteur)[/COLOR]
+[COLOR=Lime]??/??/???? [B]Freely Resizeable Combat Log[/B] (par jazira) (Entre les mains du concepteur)[/COLOR]
+[COLOR=Lime]??/??/???? [B]Level Up Icon Tweaks[/B] (par jazira) (Entre les mains du concepteur)[/COLOR]
 
 
 
@@ -1376,13 +1384,13 @@ Thieving Mod for IWDEE
 [COLOR="#FF0000"]04/04/2004 : traduction de [B]Tortured Souls (version pour BP)[/B] débutée (En attente d'un repreneur)[/COLOR]
 [COLOR="#FF0000"]15/11/2014 : traduction d'[B]Yvette Romance[/B] débutée (En attente d'un repreneur)[/COLOR]
 [COLOR="#FF0000"]12/04/2020 : traduction de [B]Tome & Blood[/B] débutée (En attente d'un repreneur)[/COLOR]
+[COLOR="#FF0000"]03/12/2020 : traduction de [B]Brage's Redemption[/B] débutée (En attente d'un repreneur)[/COLOR]
 [COLOR=Lime]18/06/2016 : traduction de [B]BG1 Romantic Encounters[/B] débutée (par Le Marquis, Zooloo, Shaywen, Lothringen, Galathée et jazira)[/COLOR]
 [COLOR=Lime]25/04/2020 : traduction de [B]Kelsey[/B] débutée (par Galathée)[/COLOR]
 [COLOR=Lime]24/05/2020 : traduction de [B]Alora NPC[/B] débutée (par tonton-thon, Freddy_Gwendo et jazira)[/COLOR]
 [COLOR=Lime]07/08/2020 : traduction de [B]Endless BG1[/B] débutée (par Freddy_Gwendo)[/COLOR]
 [COLOR=Lime]19/08/2020 : traduction de [B]Ascalons Questpack[/B] (par deratiseur, Mornagest et jazira) [/COLOR]
 [COLOR=Lime]19/08/2020 : traduction de [B]The Sellswords[/B] (par deratiseur et Mornagest) [/COLOR]
-[COLOR=Lime]03/12/2020 : traduction de [B]Brage Redemption[/B] (par jazira) [/COLOR]
 [COLOR=Lime]14/12/2020 : traduction de [B]Back to Brynnlaw[/B] (par deratiseur et Mornagest) [/COLOR]
 [COLOR=Lime]11/01/2021 : traduction de [B]Freely Resizeable Combat Log[/B] (par jazira) [/COLOR]
 [COLOR=Lime]11/01/2021 : traduction de [B]Level Up Icon Tweaks[/B] (par jazira) [/COLOR]
@@ -1403,5 +1411,6 @@ TODO
 https://www.pocketplane.net/iron-modder-competition/ //Déjà intégrer iron modder tutu
 https://modlist.pocketplane.net/index.php
 http://www.forgottenwars.com/dudleyfix/bg1_tweaks.htm
+https://sorcerers.net/Games/Torment/index_mods.php
 - Ambitious man : Une liste pour les supplanter toutes !
 [/SPOILER]
