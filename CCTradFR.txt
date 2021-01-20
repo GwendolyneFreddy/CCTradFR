@@ -72,7 +72,7 @@ Je laisse la possibilité à quiconque le souhaite d'apporter des modifications 
 [COLOR=MediumTurquoise][B]Dark Side of the Sword Coast[/B] [BG1, [COLOR="#FF0000"]BGT[/COLOR], Tutu, BGEE, [COLOR="#FF0000"]EET[/COLOR]] (par Isaya et Mornagest)[/COLOR] [url=http://www.baldursgatemods.com/forums/index.php?topic=449.0]Lien BG1[/url] / [url=http://www.baldursgatemods.com/forums/index.php?topic=8255.0]Lien Tutu-BGEE[/url] /[COLOR="#FF0000"](La version BGT-EET nécessite une mise à jour de la traduction, voir [url=https://www.baldursgateworld.fr/lacouronne/la-chambre-des-scribes/32456-Etat-de-traduction-des-mods-mis-jour-3.html#post489886]ici[/url])[/COLOR] [url=https://github.com/SpellholdStudios/DSotSC/releases]Lien BGT-EET (Pas de traduction française)[/url]
 [COLOR=Lime][B]Endless BG1 [/B] [BGT, BGEE, EET] (par Freddy_Gwendo)[/COLOR] [url=https://github.com/Gibberlings3/EndlessBG1/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Le Champion De Bhaal [/B] [BGT] (français, par Cocrane) [/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/le-champion-de-bhaal/32721-Telechargement-du-mod.html]Lien[/url]
-[COLOR=MediumTurquoise][B]The Drizzt Saga [/B][BG1, BGT, Tutu, BGEE, EET] (par Lostbrain, phoeunix et Isaya)[/COLOR] [url=http://www.blackwyrmlair.net/Mods/drizztsaga.php]Lien (sélectionnez la v3 même pour BG1)[/url] / [url=https://github.com/MattyGroove/DrizztSaga/releases]Lien EET (Version non-officielle)[/url]
+[COLOR=MediumTurquoise][B]The Drizzt Saga [/B][BG1, BGT, Tutu, BGEE, EET] (par Lostbrain, phoeunix et Isaya)[/COLOR] [url=http://www.blackwyrmlair.net/Mods/drizztsaga.php]Lien[/url] / [url=https://github.com/MattyGroove/DrizztSaga/releases]Lien EET (Version non-officielle)[/url]
 [COLOR=MediumTurquoise][B]The Grey Clan Episode 1 - In Candlelight [/B][BG1, BGT, Tutu, BGEE, EET] (par JaNcEn47 et Galathée)[/COLOR] [url=http://greyclan.blackwyrmlair.net/ep1/]Lien[/url] / [url=https://github.com/K4thos/TGC1e/]Lien BGEE-EET[/url]
 [COLOR=MediumTurquoise][B]The Lure of Sirine's Call [/B][BG1, BGT, Tutu, BGEE, EET] (par Egrevyn)[/COLOR] [url=https://github.com/Pocket-Plane-Group/Lure_Of_Sirines_Call/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]The Secret of Bonehill [/B][BG1, BGT, Tutu, EET] (par Lothringen)[/COLOR] [url=http://www.shsforums.net/files/file/1076-the-secret-of-bonehill/]Lien[/url] / [url=https://github.com/RoxanneSHS/BoneHill/releases]Lien EET (Version non-officielle)[/url]
@@ -167,28 +167,28 @@ Je laisse la possibilité à quiconque le souhaite d'apporter des modifications 
 [B]Aura, a gnome artificer NPC [/B][BGEE] [url=https://forums.beamdog.com/discussion/65891/v2-9-aura-a-gnome-artificer-npc-for-bg-ee-sod]Lien[/url] 
 [B]Coran's BG Extended Friendship Talks [/B][BGT, Tutu, BGEE] [url=https://github.com/Gibberlings3/CoranBGFriend/releases]Lien[/url] 
 [B]Delainy/Durlyle Same-Sex Romance Options [/B][BGEE] [url=https://forums.beamdog.com/discussion/37526/delainy-durlyle-same-sex-romance-options-mod-v0-91]Lien[/url]
-Drake NPC for BG:EE and SoD
-Drizzt Is Not Stupid [Tutu]
-Emily, a Half-Elf* Archer for BG:EE + SoD
-Garrick's Infatuation [BGT, Tutu, BGEE]
-Grey the Dog
-Helga
-Ishlilka the Wizard Slayer for BG1 + SOD
-Isra NPC [BGT, Tutu, BGEE]
-Kale, a Halfling Barbarian for BG:EE + SoD
-Mulgore and Xavia NPCs [BGT, Tutu]
-Neera Banter
-Neera Expansion [BGEE]
-Recorder
-Sirene, a tiefling paladin of Ilmater NPC for BG:EE and SoD
-Shar-Teel NPC mod (SoD)
-Tenya Thermidor
-Valerie NPC [BGT, Tutu, BGEE]
-Verr'Sza NPC [BGEE]
-Vienxay, a Elven Shadowdancer Mage NPC for BG:EE + SoD
-Vynd [BGT, Tutu, BGEE]
-White NPC [BGT, Tutu, BGEE]
-Zakrion
+[B]Drake, a human priest of Tyr NPC [/B][BGEE] [url=https://forums.beamdog.com/discussion/62339/v1-61-drake-a-human-priest-of-tyr-npc-for-bg-ee-and-sod]Lien[/url]
+[B]Drizzt Is Not Stupid [/B] [Tutu] [url=http://usoutpost31.com/drizztisnotstupid/]Lien[/url]
+[B]Emily, a Half-Elf* Archer [/B] [BGEE, EET] [url=https://forums.beamdog.com/discussion/74672/v1-3-emily-a-half-elf-archer-for-bg-ee-sod]Lien[/url]
+[B]Garrick's Infatuation [/B] [BGT, Tutu, BGEE] [url=https://github.com/Gibberlings3/Garricks_Infatuation/releases]Lien[/url]
+[B]Grey the Dog [/B] [BGT, BGEE, BG2EE, EET] [url=https://github.com/Gibberlings3/Grey_The_Dog/releases]Lien[/url]
+[B]Helga, a Dwarven Priestess of Haela Brightaxe [/B] [BGEE, EET] [url=https://forums.beamdog.com/discussion/76460/v1-0-helga-a-dwarven-priestess-of-haela-brightaxe-for-bg-ee-and-sod]Lien[/url]
+[B]Ishlilka the Wizard Slayer [/B] [BGEE] [url=https://forums.beamdog.com/discussion/63679/npc-mod-ishlilka-the-wizard-slayer-for-bg1-sod-full-version-1-4]Lien[/url]
+[B]Isra NPC[/B] [BGT, Tutu, BGEE] [url=http://www.shsforums.net/files/file/1042-isra/]Lien[/url]
+[B]Kale, a Halfling Barbarian [/B] [BGEE, EET] [url=https://forums.beamdog.com/discussion/74630/v1-62-kale-a-halfling-barbarian-for-bg-ee-sod-and-eet]Lien[/url]
+[B]Mulgore and Xavia NPCs [/B] [BGT, Tutu] [url=http://www.shsforums.net/files/file/72-mulgore-xavia-npcs-for-bgt-weidututu-tob-5/]Lien[/url]
+[B]Neera Banters [/B] [BGEE, EET] [url=https://github.com/AstroBryGuy/NeeraBanters/releases]Lien[/url]
+[B]Neera Expansion [/B] [BGEE] [url=https://github.com/SpellholdStudios/Neera_Expansion/releases]Lien[/url]
+[B]Recorder, a gnome lorekeeper [/B] [BGEE, EET] [url=https://forums.beamdog.com/discussion/77784/v1-25-recorder-a-gnome-lorekeeper-npc-for-bg-ee-sod]Lien[/url]
+[B]Sirene, a tiefling paladin of Ilmater NPC [/B][BGEE] [url=https://forums.beamdog.com/discussion/42721/v2-8-sirene-a-tiefling-paladin-of-ilmater-npc-for-bg-ee-and-sod]Lien[/url]
+[B]Shar-Teel NPC mod for SoD [/B][BGEE] [url=http://www.shsforums.net/files/file/1164-sharteel-npc-mod-for-sod/]Lien[/url]
+[B]Tenya Thermidor [/B][BGT, BGEE] [url=https://www.gibberlings3.net/forums/topic/29770-converting-bgee-tenya-thermidor-v15c-into-classic-bg2bgt/]Lien (BGT)[/url] / [url=https://forums.beamdog.com/discussion/33291/tenya-thermidor-v1-5]Lien (BGEE)[/url]
+[B]Valerie NPC [/B] [BGT, Tutu, BGEE, EET] [url=https://github.com/SpellholdStudios/Valerie_NPC/releases]Lien[/url]
+[B]Verr'Sza BG1EE [/B] [BGEE] [url=https://www.weaselmods.net/showthread.php?tid=34]Lien[/url]
+[B]Vienxay, a Elven Shadowdancer Mage NPC [/B] [BGEE, EET] [url=https://forums.beamdog.com/discussion/74701/v1-3-vienxay-a-elven-shadowdancer-mage-npc-for-bg-ee-sod]Lien[/url]
+[B]Vynd [/B] [BGT, Tutu, BGEE] (Probablement obsolète, voir Glam's NPC Pack) [url=https://github.com/GlamVrock/Vynd]Lien[/url]
+[B]White NPC [/B] [BGT, Tutu, BGEE, EET] [url=https://www.weaselmods.net/showthread.php?tid=37]Lien[/url]
+[B]Zakrion [/B] [BGEE] [url=https://www.gibberlings3.net/files/file/1020-zakrion/]Lien[/url]
 
 [U][B]Modification des Règles et du Gameplay :[/B][/U]
 
@@ -256,7 +256,7 @@ Xan's New Groove!
 Casanova (espagnol)
 BG1 Regelmod (allemand)
 Knights (allemand)
-TWM (beta - polonais)
+TWM (polonais)
 [/SPOILER]
 
 
@@ -755,7 +755,7 @@ Tyris Flare
 Valygar Friendship
 Vanim NPC
 Varshoon
-Verr'Sza
+[B]Verr'Sza BG2EE [/B] [BG2EE] [url=https://www.weaselmods.net/showthread.php?tid=35]Lien[/url]
 Viconia Revamped
 Wikaede One-Day-NPC Revisited
 Willie Bruce, International Bruce Day NPC [BGT]
@@ -1152,7 +1152,7 @@ Yeslick (allemand)
 
 [U][B]Conversions du moteur :[/B][/U]
 
-Icewind Gate II - beta
+Icewind Gate II
 
 [U][B]Modifications graphiques ou sonores :[/B][/U]
 
@@ -1412,7 +1412,6 @@ De même, si votre nom n'est pas mentionné lors d'une traduction/relecture, n'h
 [SPOILER]
 Cette section est juste un pense-bête, passez votre chemin. Saviez-vous que la curiosité est un très [S]vilain[/S] bon défaut, petite canaille ?
 TODO
-- The Drizzt Saga (BG1) : Confirmer v3 même pour BG1
 - Planescape : Torment : Traquer compatibilité des mods déjà présent dans les autres jeux
 - Mods non-traduits : "Relister" dans les bonnes catégories les mods BG1 & IWD (BG2 & PST OK)
 - Mods non-traduits : Intégrer les compatibilités + Lien
